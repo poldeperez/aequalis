@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "title": "Aequalis Advocades",
+    "description": "Despatx d'advocades especialitzat en dret d'estrangeria a Espanya."
+  },
+  "nav": {
+    "home": "Inici",
+    "services": "Serveis",
+    "about": "Sobre nosaltres",
+    "contact": "Contacte"
+  },
+  "hero": {
+    "heading": "Aequalis Advocades",
+    "tagline": "Assessoria legal especialitzada en dret d'estrangeria",
+    "cta": "Demana una cita"
+  },
+  "home": {
+    "introTitle": "Assessoria jurídica clara i propera",
+    "introBody": "Acompanyem persones i famílies en tots els tràmits d'estrangeria, des de visats fins a la nacionalitat espanyola.",
+    "featuredServices": "Serveis destacats",
+    "featuredServDesc": "Solucions legals adaptades a cada situació personal"
+  },
+  "services": {
+    "title": "Serveis",
+    "subtitle": "Solucions legals adaptades a cada situació personal",
+    "services": {
+      "service1": {
+        "title": "Homologació i convalidació de títols estrangers",
+        "desc": "Processos perquè els teus estudis i qualificacions obtingudes a l’estranger siguin reconeguts oficialment a Espanya, facilitant el teu desenvolupament professional i acadèmic."
+      },
+      "service2": {
+        "title": "Canvi del permís de conduir estranger",
+        "desc": "T’ajudem a realitzar el tràmit per canviar el teu permís de conduir emès a l’estranger per un permís espanyol, assegurant-te que compleixis tots els requisits legals i administratius."
+      },
+      "service3": {
+        "title": "Gestió de visats per residència a Espanya",
+        "desc": "Ens encarreguem de la tramitació completa del teu visat per residir a Espanya, oferint-te orientació personalitzada segons la teva situació i l’objectiu de la teva estada."
+      },
+      "service4": {
+        "title": "Sol·licituds i modificacions d'autoritzacions de residència",
+        "desc": "Preparem i gestionem sol·licituds de noves autoritzacions de residència i les seves modificacions, garantint que tots els documents i terminis s’ajustin a la normativa vigent."
+      },
+      "service5": {
+        "title": "Residència temporal per circumstàncies excepcionals",
+        "desc": "T’assessorem en els diferents tipus d’autoritzacions de residència temporal per raons humanitàries, d’arrelament social, laboral o familiar, oferint-te suport integral durant tot el procés."
+      },
+      "service6": {
+        "title": "Tràmits de nacionalitat espanyola",
+        "desc": "Et guiem en cada pas del procés per obtenir la nacionalitat espanyola, des de la preparació de la documentació fins a la presentació i seguiment de la sol·licitud davant l’administració."
+      },
+      "service7": {
+        "title": "Autoritzacions de residència i treball",
+        "desc": "Assessorem i gestionem la tramitació d’autoritzacions que permeten residir i treballar legalment a Espanya, tant per compte d’altri com per compte propi, garantint que el procés sigui àgil i segur."
+      },
+      "service8": {
+        "title": "Reagrupament familiar",
+        "desc": "T’ajudem a reunir-te amb els teus familiars gestionant el procediment de reagrupament familiar, vetllant pel compliment dels requisits legals i oferint suport en cada etapa del procés."
+      },
+      "service9": {
+        "title": "Residència per a familiars de ciutadans de la UE",
+        "desc": "Oferim assessorament complet per obtenir o renovar la residència de familiars de ciutadans de la Unió Europea, assegurant la correcta preparació de la documentació i el compliment de la normativa europea."
+      },
+      "service10": {
+        "title": "Recursos contra denegacions",
+        "desc": "Preparem i presentem recursos administratius o contenciosos davant resolucions desfavorables, defensant els teus drets i buscant la millor solució jurídica per revertir la denegació."
+      },
+      "service11": {
+        "title": "Visat nòmada digital",
+        "desc": "T’assessorem en la tramitació del visat per a nòmades digitals, destinat a professionals que treballen en remot des d’Espanya per a empreses o clients internacionals. Ens encarreguem de tot el procés perquè puguis establir-te i treballar legalment al país amb tranquil·litat."
+      }
+    }
+  },
+  "about": {
+    "title": "Sobre nosaltres",
+    "mission": {
+      "title": "La nostra missió",
+      "paragraph1": "A Aequalis Advocades, som un equip jove, modern i proper compromès amb oferir serveis legals humans i rigorosos. Ens especialitzem en dret d'estrangeria, donant suport a persones i famílies en cada pas del seu camí a Espanya.",
+      "paragraph2": "La nostra missió es basa en valors fonamentals que guien tot el que fem:"
+    },
+    "etymology": {
+      "title": "Etimologia",
+      "aequalis": "'Aequalis' del llatí aequālis, que significa 'igual' o 'just'.",
+      "advocades": "'Advocades' és el plural femení de 'advocat' en català, posant en valor la identitat professional femenina."
+    },
+    "valuesTitle": "Valors",
+    "values": ["igualtat", "equilibri", "justícia", "professionalitat", "empatia"],
+    "founderNote": "Equip jove, modern i proper — compromeses amb un tracte humà i rigorós."
+  },
+  "contact": {
+    "title": "Contacte",
+    "subtitle": "Estem aquí per ajudar-te. Envia'ns un missatge o truca'ns per a una consulta inicial.",
+    "form": { "name": "Nom", "email": "Email", "message": "Missatge", "language": "Idioma preferit", "submit": "Enviar" },
+    "address": "Adreça",
+    "phone": "Telèfon",
+    "email": "Correu",
+    "map": "Ubicació",
+    "contactInfo": "Informació de contacte"
+  },
+  "common": { "learnMore": "Més informació" }
+}

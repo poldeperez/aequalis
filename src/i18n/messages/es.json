@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "title": "Aequalis Advocades",
+    "description": "Despacho de abogadas especializado en derecho de extranjería en España."
+  },
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "about": "Sobre nosotras",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "heading": "Aequalis Advocades",
+    "tagline": "Asesoría legal especializada en derecho de extranjería",
+    "cta": "Pedir cita"
+  },
+  "home": {
+    "introTitle": "Asesoría jurídica clara y cercana",
+    "introBody": "Acompañamos a personas y familias en todos los trámites de extranjería, desde visados hasta la nacionalidad española.",
+    "featuredServices": "Servicios destacados",
+    "featuredServDesc": "Soluciones legales adaptadas a cada situación personal",
+    "services": {
+      "service1": {
+        "title": "Homologación y convalidación de títulos extranjeros",
+        "desc": "Procesos para que tus estudios y titulaciones obtenidas en el extranjero sean reconocidos oficialmente en España, facilitando tu desarrollo profesional y académico."
+      },
+      "service2": {
+        "title": "Canje del permiso de conducir extranjero",
+        "desc": "Te ayudamos a realizar el trámite para canjear tu permiso de conducir emitido en el extranjero por un permiso español, asegurándote de cumplir todos los requisitos legales y administrativos."
+      },
+      "service3": {
+        "title": "Gestión de visados para residir en España",
+        "desc": "Nos encargamos de la tramitación completa de tu visado para residir en España, ofreciéndote orientación personalizada según tu situación y el objetivo de tu estancia."
+      },
+      "service4": {
+        "title": "Solicitudes y modificaciones de autorizaciones de residencia",
+        "desc": "Preparamos y gestionamos solicitudes de nuevas autorizaciones de residencia y sus modificaciones, garantizando que toda la documentación y los plazos se ajusten a la normativa vigente."
+      },
+      "service5": {
+        "title": "Residencia temporal por circunstancias excepcionales",
+        "desc": "Te asesoramos en los distintos tipos de autorizaciones de residencia temporal por razones humanitarias, de arraigo social, laboral o familiar, ofreciéndote apoyo integral durante todo el proceso."
+      },
+      "service6": {
+        "title": "Trámites de nacionalidad española",
+        "desc": "Te guiamos en cada paso del proceso para obtener la nacionalidad española, desde la preparación de la documentación hasta la presentación y el seguimiento de la solicitud ante la administración."
+      }
+    }
+  },
+  "services": {
+    "title": "Servicios",
+    "subtitle": "Soluciones legales adaptadas a cada situación personal",
+    "services": {
+      "service1": {
+        "title": "Homologación y convalidación de títulos extranjeros",
+        "desc": "Procesos para que tus estudios y titulaciones obtenidas en el extranjero sean reconocidos oficialmente en España, facilitando tu desarrollo profesional y académico."
+      },
+      "service2": {
+        "title": "Canje del permiso de conducir extranjero",
+        "desc": "Te ayudamos a realizar el trámite para canjear tu permiso de conducir emitido en el extranjero por un permiso español, asegurándote de cumplir todos los requisitos legales y administrativos."
+      },
+      "service3": {
+        "title": "Gestión de visados para residir en España",
+        "desc": "Nos encargamos de la tramitación completa de tu visado para residir en España, ofreciéndote orientación personalizada según tu situación y el objetivo de tu estancia."
+      },
+      "service4": {
+        "title": "Solicitudes y modificaciones de autorizaciones de residencia",
+        "desc": "Preparamos y gestionamos solicitudes de nuevas autorizaciones de residencia y sus modificaciones, garantizando que toda la documentación y los plazos se ajusten a la normativa vigente."
+      },
+      "service5": {
+        "title": "Residencia temporal por circunstancias excepcionales",
+        "desc": "Te asesoramos en los distintos tipos de autorizaciones de residencia temporal por razones humanitarias, de arraigo social, laboral o familiar, ofreciéndote apoyo integral durante todo el proceso."
+      },
+      "service6": {
+        "title": "Trámites de nacionalidad española",
+        "desc": "Te guiamos en cada paso del proceso para obtener la nacionalidad española, desde la preparación de la documentación hasta la presentación y el seguimiento de la solicitud ante la administración."
+      },
+      "service7": {
+        "title": "Autorizaciones de residencia y trabajo",
+        "desc": "Asesoramos y gestionamos la tramitación de autorizaciones que permiten residir y trabajar legalmente en España, tanto por cuenta ajena como propia, garantizando que el proceso sea ágil y seguro."
+      },
+      "service8": {
+        "title": "Reagrupación familiar",
+        "desc": "Te ayudamos a reunirte con tus familiares gestionando el procedimiento de reagrupación familiar, velando por el cumplimiento de los requisitos legales y ofreciendo apoyo en cada etapa del proceso."
+      },
+      "service9": {
+        "title": "Residencia para familiares de ciudadanos de la UE",
+        "desc": "Ofrecemos asesoramiento completo para obtener o renovar la residencia de familiares de ciudadanos de la Unión Europea, asegurando la correcta preparación de la documentación y el cumplimiento de la normativa europea."
+      },
+      "service10": {
+        "title": "Recursos contra denegaciones",
+        "desc": "Preparamos y presentamos recursos administrativos o contencioso-administrativos ante resoluciones desfavorables, defendiendo tus derechos y buscando la mejor solución jurídica para revertir la denegación."
+      },
+      "service11": {
+        "title": "Visado nómada digital",
+        "desc": "Te asesoramos en la tramitación del visado para nómadas digitales, destinado a profesionales que trabajan en remoto desde España para empresas o clientes internacionales. Nos encargamos de todo el proceso para que puedas establecerte y trabajar legalmente en el país con tranquilidad."
+      }
+    }
+  },
+  "about": {
+    "title": "Sobre nosotras",
+    "mission": {
+      "title": "Nuestra misión",
+      "paragraph1": "En Aequalis Advocades, somos un equipo joven, moderno y cercano comprometido con ofrecer servicios legales humanos y rigurosos. Nos especializamos en derecho de extranjería, apoyando a personas y familias en cada paso de su camino en España.",
+      "paragraph2": "Nuestra misión se basa en valores fundamentales que guían todo lo que hacemos:"
+    },
+    "etymology": {
+      "title": "Etimología",
+      "aequalis": "'Aequalis' del latín aequālis, que significa 'igual' o 'justo'.",
+      "advocades": "'Advocades' es el plural femenino de 'abogado' en catalán, poniendo en valor la identidad profesional femenina."
+    },
+    "valuesTitle": "Valores",
+    "values": ["igualdad", "equilibrio", "justicia", "profesionalidad", "empatía"],
+    "founderNote": "Equipo joven, moderno y cercano — comprometidas con un trato humano y riguroso."
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "Estamos aquí para ayudarte. Envíanos un mensaje o llámanos para una consulta inicial.",
+    "form": { "name": "Nombre", "email": "Email", "message": "Mensaje", "language": "Idioma preferido", "submit": "Enviar" },
+    "address": "Dirección",
+    "phone": "Teléfono",
+    "email": "Correo",
+    "map": "Ubicación",
+    "contactInfo": "Información de contacto"
+  },
+  "common": { "learnMore": "Saber más" }
+}

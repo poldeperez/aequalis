@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "title": "Aequalis Advocades",
+    "description": "Law firm specialized in immigration law in Spain."
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About Us",
+    "contact": "Contact"
+  },
+  "hero": {
+    "heading": "Aequalis Advocades",
+    "tagline": "Legal advisory specialized in immigration law",
+    "cta": "Request an appointment"
+  },
+  "home": {
+    "introTitle": "Clear and approachable legal advice",
+    "introBody": "We support people and families across all immigration procedures, from visas to Spanish nationality.",
+    "featuredServices": "Featured services",
+    "featuredServDesc": "Legal solutions tailored to each personal situation",
+    "services": {
+      "service1": {
+        "title": "Homologation and validation of foreign degrees",
+        "desc": "Processes to have your studies and qualifications obtained abroad officially recognized in Spain, facilitating your professional and academic development."
+      },
+      "service2": {
+        "title": "Foreign driving license conversion",
+        "desc": "We help you carry out the procedure to convert your foreign-issued driving license to a Spanish one, ensuring you meet all legal and administrative requirements."
+      },
+      "service3": {
+        "title": "Visa management for residence in Spain",
+        "desc": "We handle the end-to-end processing of your visa to reside in Spain, offering personalized guidance according to your situation and the purpose of your stay."
+      },
+      "service4": {
+        "title": "Applications and modifications of residence permits",
+        "desc": "We prepare and manage applications for new residence permits and their modifications, ensuring all documents and deadlines comply with current regulations."
+      },
+      "service5": {
+        "title": "Temporary residence for exceptional circumstances",
+        "desc": "We advise you on the different types of temporary residence authorizations for humanitarian reasons or social, employment, or family ties, providing comprehensive support throughout the process."
+      },
+      "service6": {
+        "title": "Spanish nationality procedures",
+        "desc": "We guide you through every step to obtain Spanish nationality, from document preparation to filing and tracking your application before the administration."
+      }
+    }
+  },
+  "services": {
+    "title": "Services",
+    "subtitle": "Specialized legal solutions in immigration law, tailored to your personal circumstances and needs",
+    "services": {
+      "service1": {
+        "title": "Homologation and validation of foreign degrees",
+        "desc": "Processes to have your studies and qualifications obtained abroad officially recognized in Spain, facilitating your professional and academic development."
+      },
+      "service2": {
+        "title": "Foreign driving license conversion",
+        "desc": "We help you carry out the procedure to convert your foreign-issued driving license to a Spanish one, ensuring you meet all legal and administrative requirements."
+      },
+      "service3": {
+        "title": "Visa management for residence in Spain",
+        "desc": "We handle the end-to-end processing of your visa to reside in Spain, offering personalized guidance according to your situation and the purpose of your stay."
+      },
+      "service4": {
+        "title": "Applications and modifications of residence permits",
+        "desc": "We prepare and manage applications for new residence permits and their modifications, ensuring all documents and deadlines comply with current regulations."
+      },
+      "service5": {
+        "title": "Temporary residence for exceptional circumstances",
+        "desc": "We advise you on the different types of temporary residence authorizations for humanitarian reasons or social, employment, or family ties, providing comprehensive support throughout the process."
+      },
+      "service6": {
+        "title": "Spanish nationality procedures",
+        "desc": "We guide you through every step to obtain Spanish nationality, from document preparation to filing and tracking your application before the administration."
+      },
+      "service7": {
+        "title": "Residence and work permits",
+        "desc": "We advise and manage the processing of permits that allow you to legally reside and work in Spain, whether employed or self-employed, ensuring the process is efficient and secure."
+      },
+      "service8": {
+        "title": "Family reunification",
+        "desc": "We help you reunite with your family by managing the family reunification procedure, ensuring compliance with legal requirements and providing support at every stage of the process."
+      },
+      "service9": {
+        "title": "Residence for EU family members",
+        "desc": "We offer comprehensive advice to obtain or renew residence permits for family members of European Union citizens, ensuring proper documentation and compliance with EU regulations."
+      },
+      "service10": {
+        "title": "Appeals against denials",
+        "desc": "We prepare and submit administrative or judicial appeals against unfavorable decisions, defending your rights and seeking the best legal solution to overturn the denial."
+      },
+      "service11": {
+        "title": "Digital Nomad Visa",
+        "desc": "We assist you in processing the digital nomad visa, aimed at professionals working remotely from Spain for international companies or clients. We take care of the entire process so you can settle and work legally in the country with peace of mind."
+      }
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "mission": {
+      "title": "Our Mission",
+      "paragraph1": "At Aequalis Advocades, we are a young, modern, and approachable team committed to providing humane and rigorous legal services. We specialize in immigration law, supporting individuals and families through every step of their journey in Spain.",
+      "paragraph2": "Our mission is built on core values that guide everything we do:"
+    },
+    "etymology": {
+      "title": "Etymology",
+      "aequalis": "'Aequalis' from Latin aequālis meaning 'equal' or 'fair'.",
+      "advocades": "'Advocades' is the Catalan feminine plural of 'lawyer', highlighting a professional female identity."
+    },
+    "valuesTitle": "Values",
+    "values": ["equality", "balance", "justice", "professionalism", "empathy"],
+    "founderNote": "Young, modern and approachable team — committed to a humane and rigorous practice."
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "We're here to help. Send us a message or call us for an initial consultation.",
+    "form": { "name": "Name", "email": "Email", "message": "Message", "language": "Preferred language", "submit": "Send" },
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "map": "Location",
+    "contactInfo": "Contact Information"
+  },
+  "common": { "learnMore": "Learn more" }
+}
