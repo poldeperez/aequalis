@@ -98,8 +98,27 @@
   },
   "contact": {
     "title": "Contacte",
-    "subtitle": "Estem aquí per ajudar-te. Envia'ns un missatge o truca'ns per a una consulta inicial.",
-    "form": { "title":"Envia'ns un missatge", "name": "Nom", "email": "Email", "message": "Missatge", "consent": "Accepto la ", "viewPolicy": "Política de privacitat", "viewLegal": "Termes d'ús.", "submit": "Enviar" },
+    "subtitle": "Som aquí per ajudar-te. Envia'ns un missatge o truca'ns per a una consulta inicial.",
+    "form": { 
+      "title": "Envia'ns un missatge", 
+      "name": "Nom", 
+      "email": "Email", 
+      "message": "Missatge", 
+      "consent": "Accepto la ", 
+      "viewPolicy": "Política de privacitat", 
+      "viewLegal": "Termes d'ús.", 
+      "submit": "Enviar" 
+    },
+    "success": {
+      "title": "Gràcies!",
+      "message": "Hem rebut el teu missatge correctament. Ens posarem en contacte amb tu el més aviat possible.",
+      "close": "Tancar"
+    },
+    "error": {
+      "title": "Error",
+      "message": "Hi ha hagut un problema en enviar el teu missatge. Si us plau, torna-ho a intentar o contacta'ns directament.",
+      "close": "Tancar"
+    },
     "address": "Adreça",
     "phone": "Telèfon",
     "email": "Correu",

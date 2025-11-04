@@ -99,7 +99,26 @@
   "contact": {
     "title": "Contacto",
     "subtitle": "Estamos aquí para ayudarte. Envíanos un mensaje o llámanos para una consulta inicial.",
-    "form": { "title": "Envíanos un mensaje", "name": "Nombre", "email": "Email", "message": "Mensaje", "consent": "Acepto la ", "viewPolicy": "Política de privacidad", "viewLegal": "Términos de uso.", "submit": "Enviar" },
+    "form": { 
+      "title": "Envíanos un mensaje", 
+      "name": "Nombre", 
+      "email": "Email", 
+      "message": "Mensaje", 
+      "consent": "Acepto la ", 
+      "viewPolicy": "Política de privacidad", 
+      "viewLegal": "Términos de uso.", 
+      "submit": "Enviar" 
+    },
+    "success": {
+      "title": "¡Gracias!",
+      "message": "Hemos recibido tu mensaje correctamente. Nos pondremos en contacto contigo lo antes posible.",
+      "close": "Cerrar"
+    },
+    "error": {
+      "title": "Error",
+      "message": "Hubo un problema al enviar tu mensaje. Por favor, inténtalo de nuevo o contáctanos directamente.",
+      "close": "Cerrar"
+    },
     "address": "Dirección",
     "phone": "Teléfono",
     "email": "Correo",

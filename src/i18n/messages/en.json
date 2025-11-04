@@ -98,8 +98,27 @@
   },
   "contact": {
     "title": "Contact",
-    "subtitle": "We're here to help. Send us a message or call us for an initial consultation.",
-    "form": { "title": "Send us a message", "name": "Name", "email": "Email", "message": "Message", "consent": "I accept the ", "viewPolicy": "Privacy Policy", "viewLegal": "Terms of Use.", "submit": "Send" },
+    "subtitle": "We are here to help you. Send us a message or call us for an initial consultation.",
+    "form": { 
+      "title": "Send us a message", 
+      "name": "Name", 
+      "email": "Email", 
+      "message": "Message", 
+      "consent": "I accept the ", 
+      "viewPolicy": "Privacy policy", 
+      "viewLegal": "Terms of use.", 
+      "submit": "Send" 
+    },
+    "success": {
+      "title": "Thank you!",
+      "message": "We have received your message successfully. We will get in touch with you as soon as possible.",
+      "close": "Close"
+    },
+    "error": {
+      "title": "Error",
+      "message": "There was a problem sending your message. Please try again or contact us directly.",
+      "close": "Close"
+    },
     "address": "Address",
     "phone": "Phone",
     "email": "Email",

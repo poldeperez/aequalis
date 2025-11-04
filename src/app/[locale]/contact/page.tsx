@@ -2,12 +2,14 @@ import { getTranslations } from "next-intl/server";
 import Button from "../components/Button";
 import { MotionDiv } from "../components/motion";
 import {Link} from '@/i18n/navigation';
+import ContactFormStatus from "./ContactFormStatus";
 
 export default async function ContactPage() {
   const t = await getTranslations("contact");
 
   return (
     <div className="bg-surface text-primary">
+      <ContactFormStatus />
       <main>
         {/* Hero Banner */}
         <section className="bg-primary pt-32 pb-20">

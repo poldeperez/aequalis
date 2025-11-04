@@ -67,7 +67,7 @@ export async function POST(req: Request) {
       return NextResponse.redirect(url, {status: 303});
     }
 
-    const url = new URL('/thank-you', req.url);
+    const url = new URL(req.headers.get('referer') || '/', req.url);
     url.searchParams.set('success', '1');
     return NextResponse.redirect(url, {status: 303});
   } catch (e) {
