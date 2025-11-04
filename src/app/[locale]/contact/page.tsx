@@ -1,6 +1,7 @@
 import { getTranslations } from "next-intl/server";
 import Button from "../components/Button";
 import { MotionDiv } from "../components/motion";
+import {Link} from '@/i18n/navigation';
 
 export default async function ContactPage() {
   const t = await getTranslations("contact");
@@ -35,6 +36,11 @@ export default async function ContactPage() {
               <MotionDiv
                 className="bg-white rounded-2xl border border-border p-8 shadow-sm"
               >
+                <div>
+                  <h2 className="font-semibold text-xl mb-6">
+                    {t("form.title")}
+                  </h2>
+                </div>
                 <form className="space-y-6">
                   <div>
                     <label className="block text-sm font-medium mb-2" htmlFor="name">
@@ -58,6 +64,17 @@ export default async function ContactPage() {
                     />
                   </div>
                   <div>
+                    <label className="block text-sm font-medium mb-2" htmlFor="tel">
+                      {t("phone")}
+                    </label>
+                    <input
+                      id="tel"
+                      type="tel"
+                      name="tel"
+                      className="w-full rounded-xl border border-border bg-surface px-4 py-3 focus:outline-none focus:ring-2 focus:ring-accent transition-shadow"
+                    />
+                  </div>
+                  <div>
                     <label className="block text-sm font-medium mb-2" htmlFor="message">
                       {t("form.message")}
                     </label>
@@ -68,7 +85,34 @@ export default async function ContactPage() {
                       className="w-full rounded-xl border border-border bg-surface px-4 py-3 focus:outline-none focus:ring-2 focus:ring-accent transition-shadow resize-none"
                     />
                   </div>
-                  <Button variant="primary" className="w-full">
+                  <div className="flex items-start gap-3">
+                    <input
+                      id="consent"
+                      name="consent"
+                      type="checkbox"
+                      required
+                      className="mt-1 h-4 w-4 rounded border-gray-300 text-blue-600 focus:ring-blue-500"
+                    />
+                    <div className="text-sm text-gray-700">
+                      <label htmlFor="consent">
+                        {t('form.consent')}
+                      </label>
+                      <Link
+                        href="/privacy"
+                        className=" text-blue-700 underline hover:text-blue-800"
+                      >
+                        {t('form.viewPolicy')}
+                      </Link>
+                      <span className="mx-1">&</span>
+                      <Link
+                        href="/legal"
+                        className="text-blue-700 underline hover:text-blue-800"
+                      >
+                        {t('form.viewLegal')}
+                      </Link>
+                    </div>
+                  </div>
+                  <Button variant="primary" className="px-6">
                     {t("form.submit")}
                   </Button>
                 </form>

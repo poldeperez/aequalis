@@ -59,7 +59,7 @@ export default async function Footer() {
           </div>
 
           {/* Quick Links */}
-          <div className="justify-self-end space-y-4">
+          <div className="md:justify-self-end space-y-4">
             <nav className="flex flex-col gap-3 text-sm">
               <Link 
                 href="/" 
@@ -92,20 +92,20 @@ export default async function Footer() {
         {/* Bottom Bar */}
         <div className="mt-12 pt-8 border-t border-secondary/20 flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-secondary/60">
           <p>
-            © {new Date().getFullYear()} Aequalis Advocades. All rights reserved.
+            © {new Date().getFullYear()} Aequalis Advocades. {t("privacy.rights")}
           </p>
           <div className="flex items-center gap-6">
             <Link 
-              href="#" 
+              href="/legal" 
               className="hover:text-secondary transition-colors"
             >
-              Legal Notice
+              {t("legal.title")}
             </Link>
             <Link 
-              href="#" 
+              href="/privacy" 
               className="hover:text-secondary transition-colors"
             >
-              Privacy Policy
+              {t("privacy.title")}
             </Link>
           </div>
         </div>

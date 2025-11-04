@@ -6,7 +6,7 @@ import { MotionDiv } from "./motion";
 interface ServiceAccordionItemProps {
   id: number;
   title: string;
-  desc: string;
+  desc: React.ReactNode;
   index: number;
 }
 
@@ -24,7 +24,7 @@ export default function ServiceAccordionItem({
     >
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className="group w-full py-6 flex items-center gap-6 text-left hover:bg-accent/10 transition-colors duration-200 px-6 -mx-6 cursor-pointer"
+        className="group w-full py-6 flex items-center gap-6 text-left hover:bg-accent/10 transition-colors duration-200 pl-6 -mx-6 cursor-pointer"
       >
         {/* Number Badge */}
         <div className="shrink-0 flex items-center justify-center w-12 h-12 rounded-xl bg-accent text-secondary font-display font-semibold text-lg">
@@ -32,7 +32,7 @@ export default function ServiceAccordionItem({
         </div>
 
         {/* Service Title */}
-        <h3 className="flex-1 font-medium text-l md:text-xl leading-snug transition-all duration-300 group-hover:pl-1">
+        <h3 className="flex-1 font-medium text-lg leading-snug transition-all duration-300 group-hover:pl-1">
           {title}
         </h3>
 
@@ -70,8 +70,8 @@ export default function ServiceAccordionItem({
         className="overflow-hidden"
       >
         <div className="pb-6 px-6 -mx-6">
-          <div className="ml-[72px] pr-12">
-            <p className="text-m text-primary/70 leading-relaxed">{desc}</p>
+          <div className="pr-12">
+            <div className="text-md text-primary/70 leading-relaxed">{desc}</div>
           </div>
         </div>
       </MotionDiv>

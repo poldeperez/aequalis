@@ -25,24 +25,12 @@
         "desc": "Procesos para que tus estudios y titulaciones obtenidas en el extranjero sean reconocidos oficialmente en España, facilitando tu desarrollo profesional y académico."
       },
       "service2": {
-        "title": "Canje del permiso de conducir extranjero",
-        "desc": "Te ayudamos a realizar el trámite para canjear tu permiso de conducir emitido en el extranjero por un permiso español, asegurándote de cumplir todos los requisitos legales y administrativos."
+        "title": "Gestión de visados para residir en España",
+        "desc": "Nos encargamos de la asesoría integral y el acompañamiento completo en la solicitud de tu visado para entrar y residir en España."
       },
       "service3": {
-        "title": "Gestión de visados para residir en España",
-        "desc": "Nos encargamos de la tramitación completa de tu visado para residir en España, ofreciéndote orientación personalizada según tu situación y el objetivo de tu estancia."
-      },
-      "service4": {
-        "title": "Solicitudes y modificaciones de autorizaciones de residencia",
-        "desc": "Preparamos y gestionamos solicitudes de nuevas autorizaciones de residencia y sus modificaciones, garantizando que toda la documentación y los plazos se ajusten a la normativa vigente."
-      },
-      "service5": {
-        "title": "Residencia temporal por circunstancias excepcionales",
-        "desc": "Te asesoramos en los distintos tipos de autorizaciones de residencia temporal por razones humanitarias, de arraigo social, laboral o familiar, ofreciéndote apoyo integral durante todo el proceso."
-      },
-      "service6": {
-        "title": "Trámites de nacionalidad española",
-        "desc": "Te guiamos en cada paso del proceso para obtener la nacionalidad española, desde la preparación de la documentación hasta la presentación y el seguimiento de la solicitud ante la administración."
+        "title": "Autorizaciones de residencia y trabajo",
+        "desc": "Asesoramos y gestionamos la tramitación de autorizaciones que permiten residir y trabajar legalmente en España, tanto por cuenta ajena como propia."
       }
     }
   },
@@ -52,75 +40,141 @@
     "services": {
       "service1": {
         "title": "Homologación y convalidación de títulos extranjeros",
-        "desc": "Procesos para que tus estudios y titulaciones obtenidas en el extranjero sean reconocidos oficialmente en España, facilitando tu desarrollo profesional y académico."
+        "desc": "Procesos para que tus <b>estudios y titulaciones obtenidas en el extranjero</b> sean reconocidos oficialmente en España, facilitando tu desarrollo profesional y académico."
       },
       "service2": {
-        "title": "Canje del permiso de conducir extranjero",
-        "desc": "Te ayudamos a realizar el trámite para canjear tu permiso de conducir emitido en el extranjero por un permiso español, asegurándote de cumplir todos los requisitos legales y administrativos."
+        "title": "Gestión de visados para residir en España",
+        "desc": "Nos encargamos de la <b>asesoría integral y el acompañamiento completo</b> en la solicitud de tu visado para entrar y residir en España desde Consulado en país de origen, ofreciéndote una orientación <b>personalizada según tu situación y el objetivo de tu estancia.</b> Tramitamos, entre otros:<ul><li>Visado de <b>estancia por estudios</b></li><li>Visado de <b>residencia no lucrativa</b></li><li>Visado de <b>trabajo por cuenta ajena</b></li><li>Visado de <b>trabajo por cuenta propia / emprendimiento</b></li><li>Visado para <b>emprendedores</b></li><li>Visado de <b>nómada digital</b></li><li>Visado de <b>búsqueda de empleo</b></li></ul>"
       },
       "service3": {
-        "title": "Gestión de visados para residir en España",
-        "desc": "Nos encargamos de la tramitación completa de tu visado para residir en España, ofreciéndote orientación personalizada según tu situación y el objetivo de tu estancia."
+        "title": "Autorizaciones de residencia y trabajo",
+        "desc": "Asesoramos y gestionamos la tramitación de autorizaciones que permiten <b>residir y trabajar legalmente en España</b>, tanto por cuenta ajena como propia, garantizando que el proceso sea ágil y seguro."
       },
       "service4": {
         "title": "Solicitudes y modificaciones de autorizaciones de residencia",
-        "desc": "Preparamos y gestionamos solicitudes de nuevas autorizaciones de residencia y sus modificaciones, garantizando que toda la documentación y los plazos se ajusten a la normativa vigente."
+        "desc": "Preparamos y gestionamos <b>solicitudes iniciales y modificaciones</b> de autorizaciones de residencia en España, garantizando una presentación <b>correcta, documentada y ajustada a la normativa vigente y a los plazos administrativos.</b>"
       },
       "service5": {
-        "title": "Residencia temporal por circunstancias excepcionales",
-        "desc": "Te asesoramos en los distintos tipos de autorizaciones de residencia temporal por razones humanitarias, de arraigo social, laboral o familiar, ofreciéndote apoyo integral durante todo el proceso."
+        "title": "Residencia temporal por circunstancias excepcionales - Arraigos",
+        "desc": "Si te encuentras de manera irregular y quieres la residencia por cuenta ajena, tramitamos y asesoramos la residencia por arraigo. Existen diversos tipos:<ul><li>Arraigo social</li><li>Arraigo sociolaboral</li><li>Arraigo familiar</li><li>Arraigo socioinformativo</li><li>Arraigo por segunda oportunidad</li></ul>"
       },
       "service6": {
-        "title": "Trámites de nacionalidad española",
-        "desc": "Te guiamos en cada paso del proceso para obtener la nacionalidad española, desde la preparación de la documentación hasta la presentación y el seguimiento de la solicitud ante la administración."
+        "title": "Nacionalidad española",
+        "desc": "Te guiamos en cada paso del proceso para obtener <b>la nacionalidad española</b>, desde la preparación de la documentación hasta la presentación y el seguimiento de la solicitud ante la administración."
       },
       "service7": {
-        "title": "Autorizaciones de residencia y trabajo",
-        "desc": "Asesoramos y gestionamos la tramitación de autorizaciones que permiten residir y trabajar legalmente en España, tanto por cuenta ajena como propia, garantizando que el proceso sea ágil y seguro."
-      },
-      "service8": {
         "title": "Reagrupación familiar",
         "desc": "Te ayudamos a reunirte con tus familiares gestionando el procedimiento de reagrupación familiar, velando por el cumplimiento de los requisitos legales y ofreciendo apoyo en cada etapa del proceso."
       },
-      "service9": {
+      "service8": {
         "title": "Residencia para familiares de ciudadanos de la UE",
         "desc": "Ofrecemos asesoramiento completo para obtener o renovar la residencia de familiares de ciudadanos de la Unión Europea, asegurando la correcta preparación de la documentación y el cumplimiento de la normativa europea."
       },
-      "service10": {
-        "title": "Recursos contra denegaciones",
-        "desc": "Preparamos y presentamos recursos administrativos o contencioso-administrativos ante resoluciones desfavorables, defendiendo tus derechos y buscando la mejor solución jurídica para revertir la denegación."
-      },
-      "service11": {
-        "title": "Visado nómada digital",
-        "desc": "Te asesoramos en la tramitación del visado para nómadas digitales, destinado a profesionales que trabajan en remoto desde España para empresas o clientes internacionales. Nos encargamos de todo el proceso para que puedas establecerte y trabajar legalmente en el país con tranquilidad."
+      "service9": {
+        "title": "Canje del permiso de conducir extranjero",
+        "desc": "Te ayudamos a realizar el trámite para canjear tu permiso de conducir emitido en el extranjero por un permiso español, asegurándote de cumplir todos los requisitos legales y administrativos."
       }
     }
   },
   "about": {
     "title": "Sobre nosotras",
+    "aboutme1": "<b>Aequalis Advocades</b> nace con la voluntad de <b>acompañar y asesorar</b> a personas que desean construir su proyecto de vida en España. Creemos en un Derecho cercano, accesible y humano donde cada historia importa y cada proceso se guía con responsabilidad y empatía.",
+    "aboutme2": "Mi nombre es <b>Gemma Regol Pratdepadua</b>, soy abogada colegiada en el Il·lustre Col·legi d’Advocats de Mataró, graduada en Derecho por la Universidad Autónoma de Barcelona y formada en el Máster de Acceso a la Abogacía en la UNIR.",
+    "aboutme3": "Me he especializado en <b>Derecho de Extranjería</b>, orientando mi formación y experiencia profesional a este ámbito, con programas de especialización en INEAF Business School y cursos adicionales en el Colegio de Abogados.",
+    "aboutme4": "Decidí dedicarme al Derecho de Extranjería porque, desde pequeña, he sentido una sensibilidad especial entorno a la <b>justicia social</b> y, en particular, hacia las historias de migración y las realidades sociales que viven las personas migrantes. Con el tiempo comprendí que el Derecho, a parte de hacer justicia, puede ser una herramienta para abrir <b>caminos, acompañar procesos y proteger derechos.</b> Ese es el lugar desde el que ejerzo mi profesión.",
     "mission": {
-      "title": "Nuestra misión",
-      "paragraph1": "En Aequalis Advocades, somos un equipo joven, moderno y cercano comprometido con ofrecer servicios legales humanos y rigurosos. Nos especializamos en derecho de extranjería, apoyando a personas y familias en cada paso de su camino en España.",
-      "paragraph2": "Nuestra misión se basa en valores fundamentales que guían todo lo que hacemos:"
+      "title": "La nostra missió",
+      "paragraph1": "Acompaño a mis clientes en diversos procesos como <b>visados, autorizaciones de residencia, nacionalidad española, arraigos y reagrupaciones familiares</b>, entre otros. Mi compromiso es ofrecer un asesoramiento claro, transparente y adaptado a cada situación personal.",
+      "paragraph2": "En <b>Aequalis Advocades</b> trabajamos desde la <b>cercanía, la escucha y el respeto</b>. Sabemos que migrar implica esfuerzos, sueños y valentía. Por eso, nuestra misión es hacer ese camino más sencillo."
     },
     "etymology": {
       "title": "Etimología",
-      "aequalis": "'Aequalis' del latín aequālis, que significa 'igual' o 'justo'.",
-      "advocades": "'Advocades' es el plural femenino de 'abogado' en catalán, poniendo en valor la identidad profesional femenina."
+      "aequalis": "'Aequalis' del latín aequālis, que significa 'igual' o 'justo'. Esta es la base de nuestra práctica jurídica."
     },
-    "valuesTitle": "Valores",
-    "values": ["igualdad", "equilibrio", "justicia", "profesionalidad", "empatía"],
-    "founderNote": "Equipo joven, moderno y cercano — comprometidas con un trato humano y riguroso."
+    "founderNote": "Somos un despacho especializado en Derecho de Extranjería comprometidas con un trato humano y riguroso.",
+    "4braves1": "En <b>Aequalis Advocades</b> colaboramos con <b>4Braves España</b>, una agencia especializada en movilidad internacional para estudiantes que desean venir a España a cursar sus estudios.",
+    "4braves2": "Desde 4Braves, soy la abogada responsable del área de <b>extranjería</b>, encargada de la <b>tramitación integral de visados y autorizaciones de estancia por estudios</b>, así como de la <b>regularización y acompañamiento migratorio</b> de los estudiantes durante todo su proceso en España.",
+    "4braves3": "Trabajamos de forma coordinada para ofrecer un servicio <b>completo, claro y seguro</b>, que abarca desde la <b>elección del programa académico</b> hasta la <b>obtención del visado</b> y la <b>llegada al país.</b>"
   },
   "contact": {
     "title": "Contacto",
     "subtitle": "Estamos aquí para ayudarte. Envíanos un mensaje o llámanos para una consulta inicial.",
-    "form": { "name": "Nombre", "email": "Email", "message": "Mensaje", "language": "Idioma preferido", "submit": "Enviar" },
+    "form": { "title": "Envíanos un mensaje", "name": "Nombre", "email": "Email", "message": "Mensaje", "consent": "Acepto la ", "viewPolicy": "Política de privacidad", "viewLegal": "Términos de uso.", "submit": "Enviar" },
     "address": "Dirección",
     "phone": "Teléfono",
     "email": "Correo",
     "map": "Ubicación",
     "contactInfo": "Información de contacto"
   },
-  "common": { "learnMore": "Saber más" }
-}
+  "common": { "learnMore": "Más información", "moreServices": "Más servicios" },
+  "cta": {
+    "title": "Ponte en contacto",
+    "subtitle": "Contáctanos para una consulta gratuita y descubre cómo podemos ayudarte.",
+    "contact": "Contáctanos"
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "subtitle": "Cómo tratamos y protegemos tus datos personales",
+    "rights": "Todos los derechos reservados.",
+    "priv_protec": "I. POLÍTICA DE PRIVACIDAD Y PROTECCIÓN DE DATOS",
+    "priv_protec_text": "Respetando lo establecido en la legislación vigente, HBStudio (en adelante, también Sitio Web) se compromete a adoptar las medidas técnicas y organizativas necesarias, según el nivel de seguridad adecuado al riesgo de los datos recogidos.",
+    "section1": {
+      "title": "Leyes que incorpora esta política de privacidad",
+      "content": "Esta política de privacidad está adaptada a la normativa española y europea vigente en materia de protección de datos personales en internet. En concreto, la misma respeta las siguientes normas:",
+      "bullets": "<ul><li>El Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos (RGPD).</li><li>La Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (LOPD-GDD).</li><li>El Real Decreto 1720/2007, de 21 de diciembre, por el que se aprueba el Reglamento de desarrollo de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal (RDLOPD).</li><li>La Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y de Comercio Electrónico (LSSI-CE).</li><li>La Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y de Comercio Electrónico (LSSI-CE).</li></ul>"
+    },
+    "section2": {
+      "title": "Identidad del responsable del tratamiento de los datos personales",
+      "content": "<ul><li>Dirección: Carrer Burriac 47, Mataró 08303</li><li>Teléfono de contacto: 0034 695 595 530</li><li>Email de contacto: gemma@aequalisadvocades.com</li></ul>"
+    },
+    "section3": {
+      "title": "Registro de Datos de Carácter Personal",
+      "content": "En cumplimiento de lo establecido en el RGPD y la LOPD-GDD, le informamos que los datos personales recabados por HBStudio, mediante los formularios extendidos en sus páginas quedarán incorporados y serán tratados en nuestro fichero con el fin de poder facilitar, agilizar y cumplir los compromisos establecidos entre HBStudio y el Usuario o el mantenimiento de la relación que se establezca en los formularios que este rellene, o para atender una solicitud o consulta del mismo. Asimismo, de conformidad con lo previsto en el RGPD y la LOPD-GDD, salvo que sea de aplicación la excepción prevista en el artículo 30.5 del RGPD, se mantine un registro de actividades de tratamiento que especifica, según sus finalidades, las actividades de tratamiento llevadas a cabo y las demás circunstancias establecidas en el RGPD."
+    },
+    "section4": {
+      "title": "Principios aplicables al tratamiento de los datos personales",
+      "content": "El tratamiento de los datos personales del Usuario se someterá a los siguientes principios recogidos en el artículo 5 del RGPD y en el artículo 4 y siguientes de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales:",
+      "bullets": "<ul><li>Principio de licitud, lealtad y transparencia: se requerirá en todo momento el consentimiento del Usuario previa información completamente transparente de los fines para los cuales se recogen los datos personales.</li><li>Principio de limitación de la finalidad: los datos personales serán recogidos con fines determinados, explícitos y legítimos.</li><li>Principio de minimización de datos: los datos personales recogidos serán únicamente los estrictamente necesarios en relación con los fines para los que son tratados.</li><li>Principio de exactitud: los datos personales deben ser exactos y estar siempre actualizados.</li><li>Principio de limitación del plazo de conservación: los datos personales solo serán mantenidos de forma que se permita la identificación del Usuario durante el tiempo necesario para los fines de su tratamiento.</li><li>Principio de integridad y confidencialidad: los datos personales serán tratados de manera que se garantice su seguridad y confidencialidad.</li><li>Principio de responsabilidad proactiva: el Responsable del tratamiento será responsable de asegurar que los principios anteriores se cumplen.</li></ul>"
+    },
+    "section5": {
+      "title": "Categorías de datos personales",
+      "content": "Las categorías de datos que se tratan en HBStudio son únicamente datos identificativos. En ningún caso, se tratan categorías especiales de datos personales en el sentido del artículo 9 del RGPD."
+    },
+    "section6": {
+      "title": "Base legal para el tratamiento de los datos personales",
+      "content": "La base legal para el tratamiento de los datos personales es el consentimiento. HBStudio se compromete a recabar el consentimiento expreso y verificable del Usuario para el tratamiento de sus datos personales para uno o varios fines específicos. El Usuario tendrá derecho a retirar su consentimiento en cualquier momento. Será tan fácil retirar el consentimiento como darlo. Como regla general, la retirada del consentimiento no condicionará el uso del Sitio Web. En las ocasiones en las que el Usuario deba o pueda facilitar sus datos a través de formularios para realizar consultas, solicitar información o por motivos relacionados con el contenido del Sitio Web, se le informará en caso de que la cumplimentación de alguno de ellos sea obligatoria debido a que los mismos sean imprescindibles para el correcto desarrollo de la operación realizada."
+    },
+    "section7": {
+      "title": "Base legal para el tratamiento de los datos personales",
+      "content": "La base legal para el tratamiento de los datos personales es el consentimiento. HBStudio se compromete a recabar el consentimiento expreso y verificable del Usuario para el tratamiento de sus datos personales para uno o varios fines específicos. El Usuario tendrá derecho a retirar su consentimiento en cualquier momento. Será tan fácil retirar el consentimiento como darlo. Como regla general, la retirada del consentimiento no condicionará el uso del Sitio Web. En las ocasiones en las que el Usuario deba o pueda facilitar sus datos a través de formularios para realizar consultas, solicitar información o por motivos relacionados con el contenido del Sitio Web, se le informará en caso de que la cumplimentación de alguno de ellos sea obligatoria debido a que los mismos sean imprescindibles para el correcto desarrollo de la operación realizada."
+    }
+  },
+  "legal": {
+    "title": "Aviso Legal",
+    "subtitle": "Información legal sobre este sitio web",
+    "section1": {
+      "title": "I. INFORMACIÓN GENERAL",
+      "content": "En cumplimiento con el deber de información dispuesto en la Ley 34/2002 de Servicios de la Sociedad de la Información y el Comercio Electrónico (LSSI-CE) de 11 de julio, se facilitan a continuación los siguientes datos de información general de este sitio web: La titularidad de este sitio web, https://aequalisadvocades.com/, (en adelante, Sitio Web) la ostenta Aequalis Advocades, y cuyos datos de contacto son: Teléfono de contacto: 0034 695 595 530. Email de contacto: gemma@aequalisadvocades.com"
+    },
+    "section2": {
+      "title": "II. TÉRMINOS Y CONDICIONES GENERALES DE USO",
+      "content": "El objeto de las condiciones: El Sitio Web. El objeto de las presentes Condiciones Generales de Uso (en adelante, Condiciones) es regular el acceso y la utilización del Sitio Web. A los efectos de las presentes Condiciones se entenderá como Sitio Web: la apariencia externa de los interfaces de pantalla, tanto de forma estática como de forma dinámica, es decir, el árbol de navegación; y todos los elementos integrados tanto en los interfaces de pantalla como en el árbol de navegación (en adelante, Contenidos) y todos aquellos servicios o recursos en línea que en su caso ofrezca a los Usuarios (en adelante, Servicios). Aequalis Advocades se reserva la facultad de modificar, en cualquier momento, y sin aviso previo, la presentación y configuración del Sitio Web y de los Contenidos y Servicios que en él pudieran estar incorporados. El Usuario reconoce y acepta que en cualquier momento Aequalis Advocades pueda interrumpir, desactivar y/o cancelar cualquiera de estos elementos que se integran en el Sitio Web o el acceso a los mismos. El acceso al Sitio Web por el Usuario tiene carácter libre y, por regla general, es gratuito sin que el Usuario tenga que proporcionar una contraprestación para poder disfrutar de ello, salvo en lo relativo al coste de conexión a través de la red de telecomunicaciones suministrada por el proveedor de acceso que hubiere contratado el Usuario. La utilización de los Contenidos no requiere previa suscripción o registro alguno.",
+      "content2": "El Usuario. El acceso, la navegación y uso del Sitio Web, confiere la condición de Usuario, por lo que se aceptan, desde que se inicia la navegación por el Sitio Web, todas las Condiciones aquí establecidas, así como sus ulteriores modificaciones, sin perjuicio de la aplicación de la correspondiente normativa legal de obligado cumplimiento según el caso. Dada la relevancia de lo anterior, se recomienda al Usuario leerlas cada vez que visite el Sitio Web. El Sitio Web de Aequalis Advocades proporciona gran diversidad de información, servicios y datos. El Usuario asume su responsabilidad para realizar un uso correcto del Sitio Web. Esta responsabilidad se extenderá a: Un uso de la información, Contenidos y/o Servicios y datos ofrecidos por Aequalis Advocades sin que sea contrario a lo dispuesto por las presentes Condiciones, la Ley, la moral o el orden público, o que de cualquier otro modo puedan suponer lesión de los derechos de terceros o del mismo funcionamiento del Sitio Web. La veracidad y licitud de las informaciones aportadas por el Usuario en los formularios extendidos por Aequalis Advocades para el acceso a ciertos Contenidos o Servicios ofrecidos por el Sitio Web. En todo caso, el Usuario notificará de forma inmediata a Aequalis Advocades acerca de cualquier hecho que permita el uso indebido de la información registrada en dichos formularios, tales como, pero no sólo, el robo, extravío, o el acceso no autorizado a identificadores y/o contraseñas, con el fin de proceder a su inmediata cancelación. El mero acceso a este Sitio Web no supone entablar ningún tipo de relación de carácter comercial entre Aequalis Advocades y el Usuario. Siempre en el respeto de la legislación vigente, este Sitio Web de Aequalis Advocades se dirige a todas las personas, sin importar su edad, que puedan acceder y/o navegar por las páginas del Sitio Web."
+    },
+    "section3": {
+      "title": "III. ACCESO Y NAVEGACIÓN EN EL SITIO WEB: EXCLUSIÓN DE GARANTÍAS Y RESPONSABILIDAD",
+      "content": "Aequalis Advocades no garantiza la continuidad, disponibilidad y utilidad del Sitio Web, ni de los Contenidos o Servicios. Aequalis Advocades hará todo lo posible por el buen funcionamiento del Sitio Web, sin embargo, no se responsabiliza ni garantiza que el acceso a este Sitio Web no vaya a ser ininterrumpido o que esté libre de error. Tampoco se responsabiliza o garantiza que el contenido o software al que pueda accederse a través de este Sitio Web, esté libre de error o cause un daño al sistema informático (software y hardware) del Usuario. En ningún caso Aequalis Advocades será responsable por las pérdidas, daños o perjuicios de cualquier tipo que surjan por el acceso, navegación y el uso del Sitio Web, incluyéndose, pero no limitándose, a los ocasionados a los sistemas informáticos o los provocados por la introducción de virus. Aequalis Advocades tampoco se hace responsable de los daños que pudiesen ocasionarse a los usuarios por un uso inadecuado de este Sitio Web. En particular, no se hace responsable en modo alguno de las caídas, interrupciones, falta o defecto de las telecomunicaciones que pudieran ocurrir."
+    },
+    "section4": {
+      "title": "IV. POLÍTICA DE ENLACES",
+      "content": "Se informa que el Sitio Web de Aequalis Advocades pone o puede poner a disposición de los Usuarios medios de enlace (como, entre otros, links, banners, botones), directorios y motores de búsqueda que permiten a los Usuarios acceder a sitios web pertenecientes y/o gestionados por terceros. La instalación de estos enlaces, directorios y motores de búsqueda en el Sitio Web tiene por objeto facilitar a los Usuarios la búsqueda de y acceso a la información disponible en Internet, sin que pueda considerarse una sugerencia, recomendación o invitación para la visita de los mismos. Aequalis Advocades no ofrece ni comercializa por sí ni por medio de terceros los productos y/o servicios disponibles en dichos sitios enlazados. Aequalis Advocades ofrece contenidos patrocinados, anuncios y/o enlaces de afiliados. La información que aparece en estos enlaces de afiliados o los anuncios insertados, son facilitados por los propios anunciantes, por lo que Aequalis Advocades no se hace responsable de posibles inexactitudes o errores que pudieran contener los anuncios, ni garantiza en modo alguno la experiencia, integridad o responsabilidad de los anunciantes o la calidad de sus productos y/o servicios. Asimismo, tampoco garantizará la disponibilidad técnica, exactitud, veracidad, validez o legalidad de sitios ajenos a su propiedad a los que se pueda acceder por medio de los enlaces. Aequalis Advocades en ningún caso revisará o controlará el contenido de otros sitios web, así como tampoco aprueba, examina ni hace propios los productos y servicios, contenidos, archivos y cualquier otro material existente en los referidos sitios enlazados. Aequalis Advocades no asume ninguna responsabilidad por los daños y perjuicios que pudieran producirse por el acceso, uso, calidad o licitud de los contenidos, comunicaciones, opiniones, productos y servicios de los sitios web no gestionados por Aequalis Advocades y que sean enlazados en este Sitio Web. El Usuario o tercero que realice un hipervínculo desde una página web de otro, distinto, sitio web al Sitio Web de Aequalis Advocades deberá saber que: No se permite la reproducción —total o parcialmente— de ninguno de los Contenidos y/o Servicios del Sitio Web sin autorización expresa de Aequalis Advocades. No se permite tampoco ninguna manifestación falsa, inexacta o incorrecta sobre el Sitio Web de Aequalis Advocades, ni sobre los Contenidos y/o Servicios del mismo. A excepción del hipervínculo, el sitio web en el que se establezca dicho hiperenlace no contendrá ningún elemento, de este Sitio Web, protegido como propiedad intelectual por el ordenamiento jurídico español, salvo autorización expresa de Aequalis Advocades. El establecimiento del hipervínculo no implicará la existencia de relaciones entre Aequalis Advocades y el titular del sitio web desde el cual se realice, ni el conocimiento y aceptación de Aequalis Advocades de los contenidos, servicios y/o actividades ofrecidos en dicho sitio web, y viceversa."
+    },
+    "section5": {
+      "title": "V. PROPIEDAD INTELECTUAL E INDUSTRIAL",
+      "content": "Aequalis Advocades por sí o como parte cesionaria, es titular de todos los derechos de propiedad intelectual e industrial del Sitio Web, así como de los elementos contenidos en el mismo (a título enunciativo y no exhaustivo, imágenes, sonido, audio, vídeo, software o textos, marcas o logotipos, combinaciones de colores, estructura y diseño, selección de materiales usados, programas de ordenador necesarios para su funcionamiento, acceso y uso, etc.). Serán, por consiguiente, obras protegidas como propiedad intelectual por el ordenamiento jurídico español, siéndoles aplicables tanto la normativa española y comunitaria en este campo, como los tratados internacionales relativos a la materia y suscritos por España. Todos los derechos reservados. En virtud de lo dispuesto en la Ley de Propiedad Intelectual, quedan expresamente prohibidas la reproducción, la distribución y la comunicación pública, incluida su modalidad de puesta a disposición, de la totalidad o parte de los contenidos de esta página web, con fines comerciales, en cualquier soporte y por cualquier medio técnico, sin la autorización de Aequalis Advocades. El Usuario se compromete a respetar los derechos de propiedad intelectual e industrial de Aequalis Advocades. Podrá visualizar los elementos del Sitio Web o incluso imprimirlos, copiarlos y almacenarlos en el disco duro de su ordenador o en cualquier otro soporte físico siempre y cuando sea, exclusivamente, para su uso personal. El Usuario, sin embargo, no podrá suprimir, alterar, o manipular cualquier dispositivo de protección o sistema de seguridad que estuviera instalado en el Sitio Web. En caso de que el Usuario o tercero considere que cualquiera de los Contenidos del Sitio Web suponga una violación de los derechos de protección de la propiedad intelectual, deberá comunicarlo inmediatamente a Aequalis Advocades a través de los datos de contacto del apartado de INFORMACIÓN GENERAL de este Aviso Legal y Condiciones Generales de Uso."
+    },
+    "section6": {
+      "title": "VI. ACCIONES LEGALES, LEGISLACIÓN APLICABLE Y JURISDICCIÓN",
+      "content": "Aequalis Advocades se reserva la facultad de presentar las acciones civiles o penales que considere necesarias por la utilización indebida del Sitio Web y Contenidos, o por el incumplimiento de las presentes Condiciones. La relación entre el Usuario y Aequalis Advocades se regirá por la normativa vigente y de aplicación en el territorio español. De surgir cualquier controversia en relación con la interpretación y/o a la aplicación de estas Condiciones las partes someterán sus conflictos a la jurisdicción ordinaria sometiéndose a los jueces y tribunales que correspondan conforme a derecho."
+  }
+}}

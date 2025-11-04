@@ -18,7 +18,21 @@
     "introTitle": "Assessoria jurídica clara i propera",
     "introBody": "Acompanyem persones i famílies en tots els tràmits d'estrangeria, des de visats fins a la nacionalitat espanyola.",
     "featuredServices": "Serveis destacats",
-    "featuredServDesc": "Solucions legals adaptades a cada situació personal"
+    "featuredServDesc": "Solucions legals adaptades a cada situació personal",
+    "services": {
+      "service1": {
+        "title": "Homologació i convalidació de títols estrangers",
+        "desc": "Processos perquè els teus estudis i titulacions obtingudes a l'estranger siguin reconeguts oficialment a Espanya, facilitant el teu desenvolupament professional i acadèmic."
+      },
+      "service2": {
+        "title": "Gestió de visats per residir a Espanya",
+        "desc": "Ens encarreguem de la assessoria integral i l'acompanyament complet en la sol·licitud del teu visat per entrar i residir a Espanya."
+      },
+      "service3": {
+        "title": "Autorizacions de residència i treball",
+        "desc": "Assessorem i gestionem la tramitació d'autoritzacions que permeten residir i treballar legalment a Espanya, tant per compte aliè com propi."
+      }
+    }
   },
   "services": {
     "title": "Serveis",
@@ -26,75 +40,130 @@
     "services": {
       "service1": {
         "title": "Homologació i convalidació de títols estrangers",
-        "desc": "Processos perquè els teus estudis i qualificacions obtingudes a l’estranger siguin reconeguts oficialment a Espanya, facilitant el teu desenvolupament professional i acadèmic."
+        "desc": "Processos perquè els teus <b>estudis i titulacions obtingudes a l'estranger</b> siguin reconeguts oficialment a Espanya, facilitant el teu desenvolupament professional i acadèmic."
       },
       "service2": {
-        "title": "Canvi del permís de conduir estranger",
-        "desc": "T’ajudem a realitzar el tràmit per canviar el teu permís de conduir emès a l’estranger per un permís espanyol, assegurant-te que compleixis tots els requisits legals i administratius."
+        "title": "Gestió de visats per residir a Espanya",
+        "desc": "Ens encarreguem de la <b>assessoria integral i l'acompanyament complet</b> en la sol·licitud del teu visat per entrar i residir a Espanya des del Consolat al país d'origen, oferint-te una orientació <b>personalitzada segons la teva situació i l'objectiu de la teva estada.</b> Tramitem, entre d'altres:<ul><li>Visat de <b>estada per estudis</b></li><li>Visat de <b>residència no lucrativa</b></li><li>Visat de <b>treball per compte aliè</b></li><li>Visat de <b>treball per compte propi / emprenedoria</b></li><li>Visat per <b>emprenedors</b></li><li>Visat de <b>nòmad digital</b></li><li>Visat de <b>búsqueda de feina</b></li></ul>"
       },
       "service3": {
-        "title": "Gestió de visats per residència a Espanya",
-        "desc": "Ens encarreguem de la tramitació completa del teu visat per residir a Espanya, oferint-te orientació personalitzada segons la teva situació i l’objectiu de la teva estada."
+        "title": "Autorizacions de residència i treball",
+        "desc": "Assessorem i gestionem la tramitació d'autoritzacions que permeten <b>residir i treballar legalment a Espanya</b>, tant per compte aliè com propi, garantint que el procés sigui àgil i segur."
       },
       "service4": {
         "title": "Sol·licituds i modificacions d'autoritzacions de residència",
-        "desc": "Preparem i gestionem sol·licituds de noves autoritzacions de residència i les seves modificacions, garantint que tots els documents i terminis s’ajustin a la normativa vigent."
+        "desc": "Preparem i gestionem <b>sol·licituds inicials i modificacions</b> d'autoritzacions de residència a Espanya, garantint una presentació <b>correcta, documentada i ajustada a la normativa vigent i als terminis administratius.</b>"
       },
       "service5": {
-        "title": "Residència temporal per circumstàncies excepcionals",
-        "desc": "T’assessorem en els diferents tipus d’autoritzacions de residència temporal per raons humanitàries, d’arrelament social, laboral o familiar, oferint-te suport integral durant tot el procés."
+        "title": "Residència temporal per circumstàncies excepcionals - Arraigos",
+        "desc": "Si et trobes de manera irregular i vols la residència per compte aliè, tramitem i assessorem la residència per arraigo. Existeixen diversos tipus:<ul><li>Arraigo social</li><li>Arraigo sociolaboral</li><li>Arraigo familiar</li><li>Arraigo socioinformatiu</li><li>Arraigo per segona oportunitat</li></ul>"
       },
       "service6": {
-        "title": "Tràmits de nacionalitat espanyola",
-        "desc": "Et guiem en cada pas del procés per obtenir la nacionalitat espanyola, des de la preparació de la documentació fins a la presentació i seguiment de la sol·licitud davant l’administració."
+        "title": "Nacionalitat espanyola",
+        "desc": "Et guiamos en cada pas del procés per obtenir <b>la nacionalitat espanyola</b>, des de la preparació de la documentació fins a la presentació i el seguiment de la sol·licitud davant l'administració."
       },
       "service7": {
-        "title": "Autoritzacions de residència i treball",
-        "desc": "Assessorem i gestionem la tramitació d’autoritzacions que permeten residir i treballar legalment a Espanya, tant per compte d’altri com per compte propi, garantint que el procés sigui àgil i segur."
+        "title": "Reagrupació familiar",
+        "desc": "Et ajudamos a reunir-te amb els teus familiars gestionant el procediment de reagrupació familiar, vetllant pel compliment dels requisits legals i oferint suport en cada etapa del procés."
       },
       "service8": {
-        "title": "Reagrupament familiar",
-        "desc": "T’ajudem a reunir-te amb els teus familiars gestionant el procediment de reagrupament familiar, vetllant pel compliment dels requisits legals i oferint suport en cada etapa del procés."
-      },
-      "service9": {
         "title": "Residència per a familiars de ciutadans de la UE",
         "desc": "Oferim assessorament complet per obtenir o renovar la residència de familiars de ciutadans de la Unió Europea, assegurant la correcta preparació de la documentació i el compliment de la normativa europea."
       },
-      "service10": {
-        "title": "Recursos contra denegacions",
-        "desc": "Preparem i presentem recursos administratius o contenciosos davant resolucions desfavorables, defensant els teus drets i buscant la millor solució jurídica per revertir la denegació."
-      },
-      "service11": {
-        "title": "Visat nòmada digital",
-        "desc": "T’assessorem en la tramitació del visat per a nòmades digitals, destinat a professionals que treballen en remot des d’Espanya per a empreses o clients internacionals. Ens encarreguem de tot el procés perquè puguis establir-te i treballar legalment al país amb tranquil·litat."
+      "service9": {
+        "title": "Canvi del permís de conduir estranger",
+        "desc": "Et ajudamos a realitzar el tràmit per canjear el teu permís de conduir emès a l'estranger per un permís espanyol, assegurant-te de complir tots els requisits legals i administratius."
       }
     }
   },
   "about": {
     "title": "Sobre nosaltres",
+    "aboutme1": "<b>Aequalis Advocades</b> neix amb la voluntat de <b>acompanyar i assessorar</b> a persones que desitgen construir el seu projecte de vida a Espanya. Creiem en un Dret proper, accessible i humà on cada història importa i cada procés es guia amb responsabilitat i empatia.",
+    "aboutme2": "El meu nom és <b>Gemma Regol Pratdepadua</b>, sóc advocada col·legiada a l'Il·lustre Col·legi d’Advocats de Mataró, graduada en Dret per la Universitat Autònoma de Barcelona i formada en el Màster d'Accés a l'Advocacia a la UNIR.",
+    "aboutme3": "M'he especialitzat en <b>Dret d'Extranjería</b>, orientant la meva formació i experiència professional a aquest àmbit, amb programes d'especialització a INEAF Business School i cursos addicionals al Col·legi d'Advocats.",
+    "aboutme4": "Vaig decidir dedicar-me al Dret d'Extranjería perquè, des de petita, he sentit una sensibilitat especial envers la <b>justícia social</b> i, en particular, cap a les històries de migració i les realitats socials que viuen les persones migrants. Amb el temps vaig comprendre que el Dret, a part de fer justícia, pot ser una eina per obrir <b>camins, acompanyar processos i protegir drets.</b> Aquest és el lloc des d'on exerceixo la meva professió.",
     "mission": {
       "title": "La nostra missió",
-      "paragraph1": "A Aequalis Advocades, som un equip jove, modern i proper compromès amb oferir serveis legals humans i rigorosos. Ens especialitzem en dret d'estrangeria, donant suport a persones i famílies en cada pas del seu camí a Espanya.",
-      "paragraph2": "La nostra missió es basa en valors fonamentals que guien tot el que fem:"
+      "paragraph1": "Acompanyo els meus clients en diversos processos com <b>visats, autoritzacions de residència, nacionalitat espanyola, arraigos i reagrupacions familiars</b>, entre d'altres. El meu compromís és oferir un assessorament clar, transparent i adaptat a cada situació personal.",
+      "paragraph2": "A <b>Aequalis Advocades</b> treballem des de la <b>cercania, l'escolta i el respecte</b>. Sabem que migrar implica esforços, somnis i valentia. Per això, la nostra missió és fer aquest camí més senzill."
     },
     "etymology": {
       "title": "Etimologia",
-      "aequalis": "'Aequalis' del llatí aequālis, que significa 'igual' o 'just'.",
-      "advocades": "'Advocades' és el plural femení de 'advocat' en català, posant en valor la identitat professional femenina."
+      "aequalis": "'Aequalis' prové del llatí aequālis, que significa 'igual' o 'just'. I aquest és el pilar de la nostra pràctica jurídica."
     },
-    "valuesTitle": "Valors",
-    "values": ["igualtat", "equilibri", "justícia", "professionalitat", "empatia"],
-    "founderNote": "Equip jove, modern i proper — compromeses amb un tracte humà i rigorós."
+    "founderNote": "Som un despatx especialitzat en Dret d'Estrangeria compromeses amb un tracte humà i rigorós.",
+    "4braves1": "A <b>Aequalis Advocades</b> col·laborem amb <b>4Braves España</b>, una agència especialitzada en mobilitat internacional per a estudiants que desitgen venir a Espanya a cursar els seus estudis.",
+    "4braves2": "Des de 4Braves, sóc l'advocada responsable de l'àrea <b>d'estrangeria</b>, encarregada de la <b>tramitació integral de visats i autoritzacions de residència per estudis</b>, així com de la <b>regularització i acompanyament migratori</b> dels estudiants durant tot el seu procés a Espanya.",
+    "4braves3": "Treballam de forma coordinada per oferir un servei <b>complet, clar i segur</b>, que abasta des de <b>l'elecció del programa acadèmic</b> fins a <b>l'obtenció del visat</b> i <b>l'arribada al país.</b>"
   },
   "contact": {
     "title": "Contacte",
     "subtitle": "Estem aquí per ajudar-te. Envia'ns un missatge o truca'ns per a una consulta inicial.",
-    "form": { "name": "Nom", "email": "Email", "message": "Missatge", "language": "Idioma preferit", "submit": "Enviar" },
+    "form": { "title":"Envia'ns un missatge", "name": "Nom", "email": "Email", "message": "Missatge", "consent": "Accepto la ", "viewPolicy": "Política de privacitat", "viewLegal": "Termes d'ús.", "submit": "Enviar" },
     "address": "Adreça",
     "phone": "Telèfon",
     "email": "Correu",
     "map": "Ubicació",
     "contactInfo": "Informació de contacte"
   },
-  "common": { "learnMore": "Més informació" }
+  "common": { "learnMore": "Més informació", "moreServices": "Més serveis" },
+  "cta": {
+    "title": "Posa't en contacte",
+    "subtitle": "Contacta'ns per a una consulta gratuïta i descobreix com podem ajudar-te.",
+    "contact": "Contacta'ns"
+  },
+  "privacy": {
+    "title": "Política de Privacitat",
+    "subtitle": "Com tractem i protegim les teves dades personals",    
+    "rights": "Tots els drets reservats.",
+    "section1": {
+      "title": "Responsable del tractament",
+      "content": "Aequalis Advocades és el responsable del tractament de les teves dades personals. Ens comprometem a protegir la teva privacitat i a complir amb la normativa vigent de protecció de dades."
+    },
+    "section2": {
+      "title": "Dades que recollim",
+      "content": "Recollim les dades personals que ens proporciones a través dels nostres formularis de contacte, incloent nom, correu electrònic, telèfon i missatge. Aquestes dades són necessàries per poder respondre a les teves consultes i prestar-te els nostres serveis legals."
+    },
+    "section3": {
+      "title": "Finalitat del tractament",
+      "content": "Les teves dades s'utilitzen exclusivament per gestionar les teves consultes, prestar els nostres serveis legals i mantenir-te informat sobre qüestions relacionades amb el teu cas. No compartim les teves dades amb tercers sense el teu consentiment previ."
+    },
+    "section4": {
+      "title": "Els teus drets",
+      "content": "Tens dret a accedir, rectificar, suprimir, limitar el tractament, oposar-te i a la portabilitat de les teves dades. Pots exercir aquests drets contactant-nos a través del nostre correu electrònic o telèfon."
+    },
+    "section5": {
+      "title": "Seguretat de les dades",
+      "content": "Implementem mesures tècniques i organitzatives adequades per protegir les teves dades personals contra l'accés no autoritzat, pèrdua o destrucció accidental."
+    }
+  },
+  "legal": {
+    "title": "Avís Legal",
+    "subtitle": "Informació legal sobre aquest lloc web",
+    "section1": {
+      "title": "I. INFORMACIÓ GENERAL",
+      "content": "En compliment del deure d'informació disposat a la Llei 34/2002 de Serveis de la Societat de la Informació i el Comerç Electrònic (LSSI-CE) d'11 de juliol, es faciliten a continuació les següents dades d'informació general d'aquest lloc web: La titularitat d'aquest lloc web, https://aequalisadvocades.com/, (d'ara endavant, Lloc Web) l'ostenta Aequalis Advocades, i les dades de contacte són: Telèfon de contacte: 0034 695 595 530. Email de contacte: gemma@aequalisadvocades.com"
+    },
+    "section2": {
+      "title": "II. TERMES I CONDICIONS GENERALS D'ÚS",
+      "content": "L'objecte de les condicions: El Lloc Web. L'objecte d'aquestes Condicions Generals d'Ús (d'ara endavant, Condicions) és regular l'accés i la utilització del Lloc Web. Als efectes d'aquestes Condicions s'entendrà com a Lloc Web: l'aparença externa de les interfícies de pantalla, tant de forma estàtica com de forma dinàmica, és a dir, l'arbre de navegació; i tots els elements integrats tant a les interfícies de pantalla com a l'arbre de navegació (d'ara endavant, Continguts) i tots aquells serveis o recursos en línia que si escau ofereixi als Usuaris (d'ara endavant, Serveis). Aequalis Advocades es reserva la facultat de modificar, en qualsevol moment, i sense avís previ, la presentació i configuració del Lloc Web i dels Continguts i Serveis que hi puguin estar incorporats. L'Usuari reconeix i accepta que en qualsevol moment Aequalis Advocades pugui interrompre, desactivar i/o cancel·lar qualsevol d'aquests elements que s'integren al Lloc Web o l'accés als mateixos. L'accés al Lloc Web per l'Usuari té caràcter lliure i, per regla general, és gratuït sense que l'Usuari hagi de proporcionar una contraprestació per poder gaudir-ne, excepte pel que fa al cost de connexió a través de la xarxa de telecomunicacions subministrada pel proveïdor d'accés que hagi contractat l'Usuari. La utilització dels Continguts no requereix subscripció o registre previ.",
+      "content2": "L'Usuari. L'accés, la navegació i l'ús del Lloc Web, confereix la condició d'Usuari, per la qual cosa s'accepten, des que s'inicia la navegació pel Lloc Web, totes les Condicions aquí establertes, així com les seves ulteriors modificacions, sense perjudici de l'aplicació de la corresponent normativa legal d'obligat compliment segons el cas. Donada la rellevància de l'anterior, es recomana a l'Usuari llegir-les cada vegada que visiti el Lloc Web. El Lloc Web d'Aequalis Advocades proporciona gran diversitat d'informació, serveis i dades. L'Usuari assumeix la seva responsabilitat per realitzar un ús correcte del Lloc Web. Aquesta responsabilitat s'estendrà a: Un ús de la informació, Continguts i/o Serveis i dades oferits per Aequalis Advocades sense que sigui contrari al que disposen aquestes Condicions, la Llei, la moral o l'ordre públic, o que de qualsevol altra manera puguin suposar lesió dels drets de tercers o del mateix funcionament del Lloc Web. La veracitat i licitud de les informacions aportades per l'Usuari en els formularis estesos per Aequalis Advocades per a l'accés a certs Continguts o Serveis oferits pel Lloc Web. En qualsevol cas, l'Usuari notificarà de forma immediata a Aequalis Advocades sobre qualsevol fet que permeti l'ús indegut de la informació registrada en aquests formularis, com ara, però no només, el robatori, extravagància, o l'accés no autoritzat a identificadors i/o contrasenyes, per tal de procedir a la seva cancel·lació immediata. El mer accés a aquest Lloc Web no suposa establir cap tipus de relació de caràcter comercial entre Aequalis Advocades i l'Usuari. Sempre en el respecte de la legislació vigent, aquest Lloc Web d'Aequalis Advocades s'adreça a totes les persones, sense importar la seva edat, que puguin accedir i/o navegar per les pàgines del Lloc Web."
+    },
+    "section3": {
+      "title": "III. ACCÉS I NAVEGACIÓ AL LLOC WEB: EXCLUSIÓ DE GARANTIES I RESPONSABILITAT",
+      "content": "Aequalis Advocades no garanteix la continuïtat, disponibilitat i utilitat del Lloc Web, ni dels Continguts o Serveis. Aequalis Advocades farà tot el possible pel bon funcionament del Lloc Web, però, no es responsabilitza ni garanteix que l'accés a aquest Lloc Web no sigui interromput o que estigui lliure d'error. Tampoc es responsabilitza o garanteix que el contingut o programari al qual es pugui accedir a través d'aquest Lloc Web, estigui lliure d'error o causi un dany al sistema informàtic (programari i maquinari) de l'Usuari. En cap cas Aequalis Advocades serà responsable per les pèrdues, danys o perjudicis de qualsevol tipus que sorgeixin per l'accés, navegació i l'ús del Lloc Web, incloent-se, però no limitant-se, als ocasionats als sistemes informàtics o els provocats per la introducció de virus. Aequalis Advocades tampoc es fa responsable dels danys que puguessin ocasionar-se als usuaris per un ús inadequat d'aquest Lloc Web. En particular, no es fa responsable de cap manera de les caigudes, interrupcions, falta o defecte de les telecomunicacions que poguessin ocórrer."
+    },
+    "section4": {
+      "title": "IV. POLÍTICA D'ENLLAÇOS",
+      "content": "S'informa que el Lloc Web d'Aequalis Advocades posa o pot posar a disposició dels Usuaris mitjans d'enllaç (com, entre d'altres, links, banners, botons), directoris i motors de cerca que permeten als Usuaris accedir a llocs web pertanyents i/o gestionats per tercers. La instal·lació d'aquests enllaços, directoris i motors de cerca al Lloc Web té per objecte facilitar als Usuaris la cerca i accés a la informació disponible a Internet, sense que pugui considerar-se un suggeriment, recomanació o invitació per a la visita dels mateixos. Aequalis Advocades no ofereix ni comercialitza per si ni per mitjà de tercers els productes i/o serveis disponibles en aquests llocs enllaçats. Aequalis Advocades ofereix continguts patrocinats, anuncis i/o enllaços d'afiliats. La informació que apareix en aquests enllaços d'afiliats o els anuncis inserits, són facilitades pels propis anunciants, per la qual cosa Aequalis Advocades no es fa responsable de possibles inexactituds o errors que poguessin contenir els anuncis, ni garanteix de cap manera l'experiència, integritat o responsabilitat dels anunciants o la qualitat dels seus productes i/o serveis. Així mateix, tampoc garantirà la disponibilitat tècnica, exactitud, veracitat, validesa o legalitat de llocs aliens a la seva propietat als quals es pugui accedir per mitjà dels enllaços. Aequalis Advocades en cap cas revisarà o controlarà el contingut d'altres llocs web, així com tampoc aprova, examina ni fa propis els productes i serveis, continguts, arxius i qualsevol altre material existent als referits llocs enllaçats. Aequalis Advocades no assumeix cap responsabilitat pels danys i perjudicis que poguessin produir-se per l'accés, ús, qualitat o licitud dels continguts, comunicacions, opinions, productes i serveis dels llocs web no gestionats per Aequalis Advocades i que siguin enllaçats en aquest Lloc Web. L'Usuari o tercer que realitzi un hipervincle des d'una pàgina web d'un altre, diferent, lloc web al Lloc Web d'Aequalis Advocades haurà de saber que: No es permet la reproducció —total o parcialment— de cap dels Continguts i/o Serveis del Lloc Web sense autorització expressa d'Aequalis Advocades. Tampoc es permet cap manifestació falsa, inexacta o incorrecta sobre el Lloc Web d'Aequalis Advocades, ni sobre els Continguts i/o Serveis del mateix. A excepció de l'hipervincle, el lloc web en el qual s'estableixi aquest hiperenllaç no contindrà cap element, d'aquest Lloc Web, protegit com a propietat intel·lectual per l'ordenament jurídic espanyol, excepte autorització expressa d'Aequalis Advocades. L'establiment de l'hipervincle no implicarà l'existència de relacions entre Aequalis Advocades i el titular del lloc web des del qual es realitzi, ni el coneixement i acceptació d'Aequalis Advocades dels continguts, serveis i/o activitats oferits en aquest lloc web, i viceversa."
+    },
+    "section5": {
+      "title": "V. PROPIETAT INTEL·LECTUAL I INDUSTRIAL",
+      "content": "Aequalis Advocades per si o com a part cessionària, és titular de tots els drets de propietat intel·lectual i industrial del Lloc Web, així com dels elements continguts en el mateix (a títol enunciatiu i no exhaustiu, imatges, so, àudio, vídeo, programari o textos, marques o logotips, combinacions de colors, estructura i disseny, selecció de materials usats, programes d'ordinador necessaris per al seu funcionament, accés i ús, etc.). Seran, per tant, obres protegides com a propietat intel·lectual per l'ordenament jurídic espanyol, sent-los aplicables tant la normativa espanyola i comunitària en aquest camp, com els tractats internacionals relatius a la matèria i subscrits per Espanya. Tots els drets reservats. En virtut del que disposa la Llei de Propietat Intel·lectual, queden expressament prohibides la reproducció, la distribució i la comunicació pública, inclosa la seva modalitat de posada a disposició, de la totalitat o part dels continguts d'aquesta pàgina web, amb fins comercials, en qualsevol suport i per qualsevol mitjà tècnic, sense l'autorització d'Aequalis Advocades. L'Usuari es compromet a respectar els drets de propietat intel·lectual i industrial d'Aequalis Advocades. Podrà visualitzar els elements del Lloc Web o fins i tot imprimir-los, copiar-los i emmagatzemar-los al disc dur del seu ordinador o en qualsevol altre suport físic sempre i quan sigui, exclusivament, per al seu ús personal. L'Usuari, però, no podrà suprimir, alterar, o manipular qualsevol dispositiu de protecció o sistema de seguretat que estigués instal·lat al Lloc Web. En cas que l'Usuari o tercer consideri que qualsevol dels Continguts del Lloc Web suposi una violació dels drets de protecció de la propietat intel·lectual, haurà de comunicar-ho immediatament a Aequalis Advocades a través de les dades de contacte de l'apartat d'INFORMACIÓ GENERAL d'aquest Avís Legal i Condicions Generals d'Ús."
+    },
+    "section6": {
+      "title": "VI. ACCIONS LEGALS, LEGISLACIÓ APLICABLE I JURISDICCIÓ",
+      "content": "Aequalis Advocades es reserva la facultat de presentar les accions civils o penals que consideri necessàries per la utilització indeguda del Lloc Web i Continguts, o per l'incompliment d'aquestes Condicions. La relació entre l'Usuari i Aequalis Advocades es regirà per la normativa vigent i d'aplicació al territori espanyol. Si sorgeix qualsevol controvèrsia en relació amb la interpretació i/o l'aplicació d'aquestes Condicions, les parts sotmetran els seus conflictes a la jurisdicció ordinària sotmetent-se als jutges i tribunals que corresponguin conforme a dret."
+    }
+  }
 }

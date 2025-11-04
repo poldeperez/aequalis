@@ -25,24 +25,12 @@
         "desc": "Processes to have your studies and qualifications obtained abroad officially recognized in Spain, facilitating your professional and academic development."
       },
       "service2": {
-        "title": "Foreign driving license conversion",
-        "desc": "We help you carry out the procedure to convert your foreign-issued driving license to a Spanish one, ensuring you meet all legal and administrative requirements."
+        "title": "Visa management for residence in Spain",
+        "desc": "We handle the comprehensive advisory and complete support in the application for your visa to enter and reside in Spain."
       },
       "service3": {
-        "title": "Visa management for residence in Spain",
-        "desc": "We handle the end-to-end processing of your visa to reside in Spain, offering personalized guidance according to your situation and the purpose of your stay."
-      },
-      "service4": {
-        "title": "Applications and modifications of residence permits",
-        "desc": "We prepare and manage applications for new residence permits and their modifications, ensuring all documents and deadlines comply with current regulations."
-      },
-      "service5": {
-        "title": "Temporary residence for exceptional circumstances",
-        "desc": "We advise you on the different types of temporary residence authorizations for humanitarian reasons or social, employment, or family ties, providing comprehensive support throughout the process."
-      },
-      "service6": {
-        "title": "Spanish nationality procedures",
-        "desc": "We guide you through every step to obtain Spanish nationality, from document preparation to filing and tracking your application before the administration."
+        "title": "Residence and work permits",
+        "desc": "We advise and manage the processing of permits that allow you to legally reside and work in Spain, both as an employee and self-employed."
       }
     }
   },
@@ -52,75 +40,130 @@
     "services": {
       "service1": {
         "title": "Homologation and validation of foreign degrees",
-        "desc": "Processes to have your studies and qualifications obtained abroad officially recognized in Spain, facilitating your professional and academic development."
+        "desc": "Processes to have your <b>studies and qualifications obtained abroad</b> officially recognized in Spain, facilitating your professional and academic development."
       },
       "service2": {
-        "title": "Foreign driving license conversion",
-        "desc": "We help you carry out the procedure to convert your foreign-issued driving license to a Spanish one, ensuring you meet all legal and administrative requirements."
+        "title": "Visa management for residence in Spain",
+        "desc": "We handle the <b>comprehensive advisory and complete support</b> in the application for your visa to enter and reside in Spain from the Consulate in your country of origin, offering you <b>personalized guidance according to your situation and the purpose of your stay.</b> We process, among others:<ul><li>Visa for <b>study purposes</b></li><li>Visa for <b>non-lucrative residence</b></li><li>Visa for <b>employment</b></li><li>Visa for <b>self-employment / entrepreneurship</b></li><li>Visa for <b>entrepreneurs</b></li><li>Visa for <b>digital nomads</b></li><li>Visa for <b>job search</b></li></ul>"
       },
       "service3": {
-        "title": "Visa management for residence in Spain",
-        "desc": "We handle the end-to-end processing of your visa to reside in Spain, offering personalized guidance according to your situation and the purpose of your stay."
+        "title": "Residence and work permits",
+        "desc": "We advise and manage the processing of permits that allow you to <b>legally reside and work in Spain</b>, both as an employee and self-employed, ensuring that the process is smooth and secure."
       },
       "service4": {
         "title": "Applications and modifications of residence permits",
         "desc": "We prepare and manage applications for new residence permits and their modifications, ensuring all documents and deadlines comply with current regulations."
       },
       "service5": {
-        "title": "Temporary residence for exceptional circumstances",
-        "desc": "We advise you on the different types of temporary residence authorizations for humanitarian reasons or social, employment, or family ties, providing comprehensive support throughout the process."
+        "title": "Temporary residence for exceptional circumstances - Arraigos",
+        "desc": "If you find yourself irregularly and want residence for employment, we process and advise on residence for arraigo. There are various types:<ul><li>Social arraigo</li><li>Socio-laboral arraigo</li><li>Family arraigo</li><li>Socio-informative arraigo</li><li>Second chance arraigo</li></ul>"
       },
       "service6": {
         "title": "Spanish nationality procedures",
-        "desc": "We guide you through every step to obtain Spanish nationality, from document preparation to filing and tracking your application before the administration."
+        "desc": "We guide you through every step to obtain <b>Spanish nationality</b>, from document preparation to filing and tracking your application before the administration."
       },
       "service7": {
-        "title": "Residence and work permits",
-        "desc": "We advise and manage the processing of permits that allow you to legally reside and work in Spain, whether employed or self-employed, ensuring the process is efficient and secure."
+        "title": "Family reunification",
+        "desc": "We help you reunite with your family members by managing the family reunification procedure, ensuring compliance with legal requirements and providing support at every stage of the process."
       },
       "service8": {
-        "title": "Family reunification",
-        "desc": "We help you reunite with your family by managing the family reunification procedure, ensuring compliance with legal requirements and providing support at every stage of the process."
+        "title": "Residence for family members of EU citizens",
+        "desc": "We offer comprehensive advice to obtain or renew the residence of family members of European Union citizens, ensuring the correct preparation of documentation and compliance with European regulations."
       },
       "service9": {
-        "title": "Residence for EU family members",
-        "desc": "We offer comprehensive advice to obtain or renew residence permits for family members of European Union citizens, ensuring proper documentation and compliance with EU regulations."
-      },
-      "service10": {
-        "title": "Appeals against denials",
-        "desc": "We prepare and submit administrative or judicial appeals against unfavorable decisions, defending your rights and seeking the best legal solution to overturn the denial."
-      },
-      "service11": {
-        "title": "Digital Nomad Visa",
-        "desc": "We assist you in processing the digital nomad visa, aimed at professionals working remotely from Spain for international companies or clients. We take care of the entire process so you can settle and work legally in the country with peace of mind."
+        "title": "Exchange of foreign driving license",
+        "desc": "We help you carry out the procedure to exchange your driving license issued abroad for a Spanish license, ensuring you meet all legal and administrative requirements."
       }
     }
   },
   "about": {
     "title": "About Us",
+    "aboutme1": "<b>Aequalis Advocades</b> was founded with the intention of <b>accompanying and advising</b> individuals who wish to build their life project in Spain. We believe in a law that is close, accessible, and human, where every story matters and every process is guided with responsibility and empathy.",
+    "aboutme2": "My name is <b>Gemma Regol Pratdepadua</b>, I am a registered lawyer at the Il·lustre Col·legi d’Advocats de Mataró, graduated in Law from the Universidad Autónoma de Barcelona and trained in the Master's Degree in Access to the Bar at UNIR.",
+    "aboutme3": "I have specialized in <b>Immigration Law</b>, directing my training and professional experience to this field, with specialization programs at INEAF Business School and additional courses at the Bar Association.",
+    "aboutme4": "I decided to dedicate myself to Immigration Law because, since I was little, I have felt a special sensitivity towards <b>social justice</b> and, in particular, towards the stories of migration and the social realities faced by migrants. Over time, I understood that the law, apart from doing justice, can be a tool to open <b>paths, accompany processes, and protect rights.</b> That is the place from which I practice my profession.",
     "mission": {
       "title": "Our Mission",
-      "paragraph1": "At Aequalis Advocades, we are a young, modern, and approachable team committed to providing humane and rigorous legal services. We specialize in immigration law, supporting individuals and families through every step of their journey in Spain.",
-      "paragraph2": "Our mission is built on core values that guide everything we do:"
+      "paragraph1": "I accompany my clients in various processes such as <b>visas, residence permits, Spanish nationality, arraigo, and family reunifications</b>, among others. My commitment is to offer clear, transparent advice tailored to each personal situation.",
+      "paragraph2": "At <b>Aequalis Advocades</b> we work from <b>closeness, listening, and respect</b>. We know that migrating involves efforts, dreams, and courage. That is why our mission is to make that journey easier."
     },
     "etymology": {
       "title": "Etymology",
-      "aequalis": "'Aequalis' from Latin aequālis meaning 'equal' or 'fair'.",
-      "advocades": "'Advocades' is the Catalan feminine plural of 'lawyer', highlighting a professional female identity."
+      "aequalis": "'Aequalis' from Latin aequālis meaning 'equal' or 'fair'. This is the foundation of our legal practice."
     },
-    "valuesTitle": "Values",
-    "values": ["equality", "balance", "justice", "professionalism", "empathy"],
-    "founderNote": "Young, modern and approachable team — committed to a humane and rigorous practice."
+    "founderNote": "We are a law firm specialized in Immigration Law committed to a humane and rigorous practice.",
+    "4braves1": "At <b>Aequalis Advocades</b> we collaborate with <b>4Braves España</b>, an agency specialized in international mobility for students who wish to come to Spain to pursue their studies.",
+    "4braves2": "From 4Braves, I am the lawyer responsible for the <b>immigration</b> area, in charge of the <b>comprehensive processing of visas and residence permits for studies</b>, as well as the <b>regularization and migratory support</b> of students throughout their process in Spain.",
+    "4braves3": "We work together to offer a <b>complete, clear, and secure</b> service, covering everything from the <b>selection of the academic program</b> to the <b>obtaining of the visa</b> and the <b>arrival in the country.</b>"
   },
   "contact": {
     "title": "Contact",
     "subtitle": "We're here to help. Send us a message or call us for an initial consultation.",
-    "form": { "name": "Name", "email": "Email", "message": "Message", "language": "Preferred language", "submit": "Send" },
+    "form": { "title": "Send us a message", "name": "Name", "email": "Email", "message": "Message", "consent": "I accept the ", "viewPolicy": "Privacy Policy", "viewLegal": "Terms of Use.", "submit": "Send" },
     "address": "Address",
     "phone": "Phone",
     "email": "Email",
     "map": "Location",
-    "contactInfo": "Contact Information"
+    "contactInfo": "Contact information"
   },
-  "common": { "learnMore": "Learn more" }
+  "common": { "learnMore": "Learn more", "moreServices": "More services" },
+  "cta": {
+    "title": "Get in touch",
+    "subtitle": "Contact us for a free consultation and discover how we can help you.",
+    "contact": "Contact us"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "subtitle": "How we treat and protect your personal data",
+    "rights": "All rights reserved.",
+    "section1": {
+      "title": "Data Controller",
+      "content": "Aequalis Advocades is the controller of your personal data. We are committed to protecting your privacy and complying with current data protection regulations."
+    },
+    "section2": {
+      "title": "Data we collect",
+      "content": "We collect the personal data you provide through our contact forms, including name, email, phone, and message. This data is necessary to respond to your inquiries and provide our legal services."
+    },
+    "section3": {
+      "title": "Purpose of processing",
+      "content": "Your data is used exclusively to manage your inquiries, provide our legal services, and keep you informed about matters related to your case. We do not share your data with third parties without your prior consent."
+    },
+    "section4": {
+      "title": "Your rights",
+      "content": "You have the right to access, rectify, delete, limit processing, object, and port your data. You can exercise these rights by contacting us via email or phone."
+    },
+    "section5": {
+      "title": "Data security",
+      "content": "We implement appropriate technical and organizational measures to protect your personal data against unauthorized access, loss, or accidental destruction."
+    }
+  },
+  "legal": {
+    "title": "Legal Notice",
+    "subtitle": "Legal information about this website",
+    "section1": {
+      "title": "I. GENERAL INFORMATION",
+      "content": "In compliance with the duty of information provided in Law 34/2002 on Information Society Services and Electronic Commerce (LSSI-CE) of July 11, the following general information data of this website are provided: The ownership of this website, https://aequalisadvocades.com/, (hereinafter, Website) is held by Aequalis Advocades, whose contact details are: Contact phone: 0034 695 595 530. Contact email: gemma@aequalisadvocades.com"
+    },
+    "section2": {
+      "title": "II. GENERAL TERMS AND CONDITIONS OF USE",
+      "content": "The purpose of the conditions: The Website. The purpose of these General Terms of Use (hereinafter, Terms) is to regulate access to and use of the Website. For the purposes of these Terms, Website shall be understood as: the external appearance of the screen interfaces, both statically and dynamically, that is, the navigation tree; and all elements integrated both in the screen interfaces and in the navigation tree (hereinafter, Contents) and all those online services or resources that it may offer to Users (hereinafter, Services). Aequalis Advocades reserves the right to modify, at any time and without prior notice, the presentation and configuration of the Website and the Contents and Services that may be incorporated therein. The User acknowledges and accepts that at any time Aequalis Advocades may interrupt, deactivate and/or cancel any of these elements that are integrated into the Website or access to them. Access to the Website by the User is free and, as a general rule, is free of charge without the User having to provide consideration to enjoy it, except for the cost of connection through the telecommunications network supplied by the access provider that the User has contracted. The use of the Contents does not require prior subscription or registration.",
+      "content2": "The User. Access to, navigation and use of the Website confers the status of User, and therefore all the Terms established herein are accepted from the moment navigation of the Website begins, as well as their subsequent modifications, without prejudice to the application of the corresponding mandatory legal regulations according to the case. Given the relevance of the foregoing, the User is advised to read them each time they visit the Website. The Website of Aequalis Advocades provides a great diversity of information, services and data. The User assumes responsibility for making correct use of the Website. This responsibility will extend to: Use of information, Contents and/or Services and data offered by Aequalis Advocades that is not contrary to the provisions of these Terms, the Law, morality or public order, or that in any other way may result in damage to the rights of third parties or the operation of the Website itself. The veracity and legality of the information provided by the User in the forms provided by Aequalis Advocades for access to certain Contents or Services offered by the Website. In any case, the User will immediately notify Aequalis Advocades of any fact that allows the misuse of information registered in said forms, such as, but not limited to, theft, loss, or unauthorized access to identifiers and/or passwords, in order to proceed with their immediate cancellation. Mere access to this Website does not imply establishing any type of commercial relationship between Aequalis Advocades and the User. Always in compliance with current legislation, this Website of Aequalis Advocades is aimed at all people, regardless of their age, who can access and/or navigate the pages of the Website."
+    },
+    "section3": {
+      "title": "III. ACCESS AND NAVIGATION ON THE WEBSITE: EXCLUSION OF WARRANTIES AND LIABILITY",
+      "content": "Aequalis Advocades does not guarantee the continuity, availability and usefulness of the Website, nor of the Contents or Services. Aequalis Advocades will do everything possible for the proper functioning of the Website, however, it is not responsible for or guarantees that access to this Website will not be interrupted or that it will be error-free. Nor is it responsible for or guarantees that the content or software that can be accessed through this Website is error-free or causes damage to the User's computer system (software and hardware). In no case will Aequalis Advocades be responsible for losses, damages or harm of any kind arising from access, navigation and use of the Website, including, but not limited to, those caused to computer systems or those caused by the introduction of viruses. Aequalis Advocades is also not responsible for damages that may be caused to users by improper use of this Website. In particular, it is not responsible in any way for failures, interruptions, lack or defect of telecommunications that may occur."
+    },
+    "section4": {
+      "title": "IV. LINK POLICY",
+      "content": "It is reported that the Website of Aequalis Advocades makes or may make available to Users means of linking (such as, among others, links, banners, buttons), directories and search engines that allow Users to access websites owned and/or managed by third parties. The installation of these links, directories and search engines on the Website is intended to facilitate Users' search for and access to information available on the Internet, without being considered a suggestion, recommendation or invitation to visit them. Aequalis Advocades does not offer or market, by itself or through third parties, the products and/or services available on said linked sites. Aequalis Advocades offers sponsored content, advertisements and/or affiliate links. The information that appears in these affiliate links or inserted advertisements is provided by the advertisers themselves, so Aequalis Advocades is not responsible for possible inaccuracies or errors that the advertisements may contain, nor does it guarantee in any way the experience, integrity or responsibility of the advertisers or the quality of their products and/or services. Likewise, it will not guarantee the technical availability, accuracy, veracity, validity or legality of sites outside its ownership that can be accessed through the links. Aequalis Advocades will in no case review or control the content of other websites, nor does it approve, examine or make its own the products and services, contents, files and any other material existing on said linked sites. Aequalis Advocades assumes no responsibility for damages that may occur from access, use, quality or legality of the contents, communications, opinions, products and services of websites not managed by Aequalis Advocades and that are linked on this Website. The User or third party that makes a hyperlink from another, different, website page to the Website of Aequalis Advocades must know that: Reproduction —in whole or in part— of any of the Contents and/or Services of the Website is not permitted without express authorization from Aequalis Advocades. Nor is any false, inaccurate or incorrect statement about the Website of Aequalis Advocades, or about its Contents and/or Services, permitted. With the exception of the hyperlink, the website on which said hyperlink is established will not contain any element, from this Website, protected as intellectual property by the Spanish legal system, except with express authorization from Aequalis Advocades. The establishment of the hyperlink will not imply the existence of relations between Aequalis Advocades and the owner of the website from which it is made, nor the knowledge and acceptance by Aequalis Advocades of the contents, services and/or activities offered on said website, and vice versa."
+    },
+    "section5": {
+      "title": "V. INTELLECTUAL AND INDUSTRIAL PROPERTY",
+      "content": "Aequalis Advocades, by itself or as an assignee, is the owner of all intellectual and industrial property rights of the Website, as well as the elements contained therein (by way of example and not exhaustively, images, sound, audio, video, software or texts, trademarks or logos, color combinations, structure and design, selection of materials used, computer programs necessary for its operation, access and use, etc.). They will therefore be works protected as intellectual property by the Spanish legal system, with both Spanish and Community regulations in this field being applicable, as well as international treaties relating to the matter and signed by Spain. All rights reserved. By virtue of the provisions of the Intellectual Property Law, reproduction, distribution and public communication, including its method of making available, of all or part of the contents of this website, for commercial purposes, on any medium and by any technical means, without the authorization of Aequalis Advocades, are expressly prohibited. The User undertakes to respect the intellectual and industrial property rights of Aequalis Advocades. You may view the elements of the Website or even print, copy and store them on your computer's hard drive or on any other physical medium as long as it is exclusively for your personal use. The User, however, may not delete, alter, or manipulate any protection device or security system that was installed on the Website. In the event that the User or a third party considers that any of the Contents of the Website constitutes a violation of intellectual property protection rights, they must immediately inform Aequalis Advocades through the contact details in the GENERAL INFORMATION section of this Legal Notice and General Terms of Use."
+    },
+    "section6": {
+      "title": "VI. LEGAL ACTIONS, APPLICABLE LAW AND JURISDICTION",
+      "content": "Aequalis Advocades reserves the right to take the civil or criminal actions it deems necessary for the improper use of the Website and Contents, or for breach of these Terms. The relationship between the User and Aequalis Advocades will be governed by current regulations applicable in Spanish territory. If any controversy arises in relation to the interpretation and/or application of these Terms, the parties will submit their disputes to the ordinary jurisdiction, submitting to the judges and courts that correspond according to law."
+    }
+  }
 }

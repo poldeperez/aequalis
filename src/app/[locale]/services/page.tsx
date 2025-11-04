@@ -1,17 +1,23 @@
 import { getTranslations } from "next-intl/server";
 import { MotionDiv } from "../components/motion";
 import ServiceAccordionItem from "../components/ServiceAccordionItem";
+import CTA from "../components/CTA";
+import Image from "next/image";
 
 export default async function ServicesPage() {
   const t = await getTranslations("services");
 
-  // Get all 11 services with their titles and descriptions
-  const services = Array.from({ length: 11 }, (_, i) => {
+  // Get all 9 services with their titles and descriptions
+  const services = Array.from({ length: 9 }, (_, i) => {
     const num = i + 1;
     return {
       id: num,
       title: t(`services.service${num}.title`),
-      desc: t(`services.service${num}.desc`),
+      desc: t.rich(`services.service${num}.desc`, {
+        b: (chunks) => <strong>{chunks}</strong>,
+        ul: (chunks) => <ul className="list-disc pl-5 pt-2">{chunks}</ul>,
+        li: (chunks) => <li>{chunks}</li>
+      }),
     };
   });
 
@@ -38,7 +44,7 @@ export default async function ServicesPage() {
         </section>
 
         {/* Services Accordion List */}
-        <section className="py-8 md:py-16">
+        <section className="pt-8 pb-4 md:pt-16 md:pb-8">
           <div className="container max-w-4xl">
             <div className="bg-white rounded-2xl border border-border shadow-sm px-8 py-4">
               {services.map((service, i) => (
@@ -53,6 +59,30 @@ export default async function ServicesPage() {
             </div>
           </div>
         </section>
+
+        <section className="py-0 md:py-2">
+          <div className="container max-w-4xl">
+            <MotionDiv
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true, margin: "-50px" }}
+              transition={{ duration: 0.6, delay: 0.2 }}
+              className="relative rounded-2xl overflow-hidden"
+            >
+              <div className="relative h-[300px] md:h-[400px]">
+                <Image 
+                  src="/services/service2.jpeg" 
+                  alt="Aequalis Advocades" 
+                  fill
+                  className="object-cover"
+                />
+                <div className="absolute inset-0 bg-linear-to-t from-primary/60 to-transparent"></div>
+              </div>
+            </MotionDiv>
+          </div>
+        </section>
+
+        <CTA />
       </main>
     </div>
   );
