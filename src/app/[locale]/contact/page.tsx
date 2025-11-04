@@ -41,7 +41,7 @@ export default async function ContactPage() {
                     {t("form.title")}
                   </h2>
                 </div>
-                <form className="space-y-6">
+                <form className="space-y-6" method="POST" action="/api/contact">
                   <div>
                     <label className="block text-sm font-medium mb-2" htmlFor="name">
                       {t("form.name")}
@@ -49,6 +49,7 @@ export default async function ContactPage() {
                     <input
                       id="name"
                       name="name"
+                      required
                       className="w-full rounded-xl border border-border bg-surface px-4 py-3 focus:outline-none focus:ring-2 focus:ring-accent transition-shadow"
                     />
                   </div>
@@ -60,6 +61,7 @@ export default async function ContactPage() {
                       id="email"
                       type="email"
                       name="email"
+                      required
                       className="w-full rounded-xl border border-border bg-surface px-4 py-3 focus:outline-none focus:ring-2 focus:ring-accent transition-shadow"
                     />
                   </div>
@@ -71,6 +73,9 @@ export default async function ContactPage() {
                       id="tel"
                       type="tel"
                       name="tel"
+                      required
+                      pattern="[0-9+\s\-()]+"
+                      title="Please enter a valid phone number (numbers, spaces, +, -, and parentheses only)"
                       className="w-full rounded-xl border border-border bg-surface px-4 py-3 focus:outline-none focus:ring-2 focus:ring-accent transition-shadow"
                     />
                   </div>
@@ -82,9 +87,12 @@ export default async function ContactPage() {
                       id="message"
                       name="message"
                       rows={6}
+                      required
                       className="w-full rounded-xl border border-border bg-surface px-4 py-3 focus:outline-none focus:ring-2 focus:ring-accent transition-shadow resize-none"
                     />
                   </div>
+                  {/* Honeypot field hidden from users */}
+                  <input type="text" name="company" tabIndex={-1} autoComplete="off" className="hidden" />
                   <div className="flex items-start gap-3">
                     <input
                       id="consent"
@@ -112,9 +120,9 @@ export default async function ContactPage() {
                       </Link>
                     </div>
                   </div>
-                  <Button variant="primary" className="px-6">
+                  <button type="submit" className="px-6 inline-flex items-center justify-center rounded-full py-2.5 text-sm font-medium bg-primary text-white hover:opacity-90 focus-visible:ring-primary transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 cursor-pointer">
                     {t("form.submit")}
-                  </Button>
+                  </button>
                 </form>
               </MotionDiv>
 
