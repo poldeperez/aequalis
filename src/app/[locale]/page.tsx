@@ -3,13 +3,35 @@ import Button from "./components/Button";
 import Image from 'next/image';
 import { MotionDiv } from "./components/motion";
 import CTA from "./components/CTA";
+import { generateOrganizationSchema, generateWebPageSchema } from "@/lib/schema";
 
-export default async function HomePage() {
+export default async function HomePage({ params }: { params: Promise<{ locale: string }> }) {
+  const resolved = 'then' in params ? await params : params;
+  const locale = resolved.locale;
   const t = await getTranslations();
   const serv = ["service1", "service2", "service3"];
 
+  const organizationSchema = generateOrganizationSchema();
+  const webPageSchema = generateWebPageSchema({
+    name: t('meta.title'),
+    description: t('meta.description'),
+    url: `https://www.aequalisadvocades.com/${locale}`,
+    locale: locale,
+  });
+
   return (
-    <div className="bg-surface text-primary">
+    <>
+      {/* JSON-LD Structured Data */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageSchema) }}
+      />
+      
+      <div className="bg-surface text-primary">
       <main >
         {/* Hero */}
         <section className="bg-primary min-h-[calc(100svh)] flex items-center relative">
@@ -255,5 +277,6 @@ export default async function HomePage() {
 
       </main>
     </div>
+    </>
   );
 }
