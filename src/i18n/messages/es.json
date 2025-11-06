@@ -33,6 +33,14 @@
         "title": "Autorizaciones de residencia y trabajo",
         "desc": "Asesoramos y gestionamos la tramitación de autorizaciones que permiten residir y trabajar legalmente en España, tanto por cuenta ajena como propia."
       }
+    },
+    "intro": {
+      "title1": "Compromiso y profesionalidad",
+      "desc1": "Nos especializamos en derecho de extranjería y nacionalidad española, ofreciendo un asesoramiento claro, actualizado y adaptado a cada situación.",
+      "title2": "Atención personalizada",
+      "desc2": "Cada persona tiene una historia distinta. Te acompañamos de manera cercana y transparente en cada paso del proceso.",
+      "title3": "Casos resueltos con éxito",
+      "desc3": "Hemos ayudado a muchas personas y familias a obtener sus permisos de residencia y nacionalidad, alcanzando sus objetivos en España."
     }
   },
   "services": {
@@ -84,7 +92,7 @@
     "aboutme3": "Me he especializado en <b>Derecho de Extranjería</b>, orientando mi formación y experiencia profesional a este ámbito, con programas de especialización en INEAF Business School y cursos adicionales en el Colegio de Abogados.",
     "aboutme4": "Decidí dedicarme al Derecho de Extranjería porque, desde pequeña, he sentido una sensibilidad especial entorno a la <b>justicia social</b> y, en particular, hacia las historias de migración y las realidades sociales que viven las personas migrantes. Con el tiempo comprendí que el Derecho, a parte de hacer justicia, puede ser una herramienta para abrir <b>caminos, acompañar procesos y proteger derechos.</b> Ese es el lugar desde el que ejerzo mi profesión.",
     "mission": {
-      "title": "La nostra missió",
+      "title": "Nuestra misión",
       "paragraph1": "Acompaño a mis clientes en diversos procesos como <b>visados, autorizaciones de residencia, nacionalidad española, arraigos y reagrupaciones familiares</b>, entre otros. Mi compromiso es ofrecer un asesoramiento claro, transparente y adaptado a cada situación personal.",
       "paragraph2": "En <b>Aequalis Advocades</b> trabajamos desde la <b>cercanía, la escucha y el respeto</b>. Sabemos que migrar implica esfuerzos, sueños y valentía. Por eso, nuestra misión es hacer ese camino más sencillo."
     },

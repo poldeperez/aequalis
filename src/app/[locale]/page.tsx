@@ -140,11 +140,11 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
                     <span className="text-xl">✓</span>
                   </div>
                   <div>
-                    <h3 className="font-display font-semibold text-lg text-primary mb-1">
-                      Professional Excellence
+                    <h3 className="text-lg text-primary mb-1">
+                      {t("home.intro.title1")}
                     </h3>
                     <p className="text-sm md:text-base text-primary/70">
-                      Over 15 years of combined experience in immigration law, providing expert guidance tailored to your unique situation.
+                      {t("home.intro.desc1")}
                     </p>
                   </div>
                 </MotionDiv>
@@ -160,11 +160,11 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
                     <span className="text-xl">✓</span>
                   </div>
                   <div>
-                    <h3 className="font-display font-semibold text-lg text-primary mb-1">
-                      Client-Centered Approach
+                    <h3 className="text-lg text-primary mb-1">
+                      {t("home.intro.title2")}
                     </h3>
                     <p className="text-sm md:text-base text-primary/70">
-                      We prioritize clear communication and personalized support, ensuring you feel confident throughout every step of the process.
+                      {t("home.intro.desc2")}
                     </p>
                   </div>
                 </MotionDiv>
@@ -180,11 +180,11 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
                     <span className="text-xl">✓</span>
                   </div>
                   <div>
-                    <h3 className="font-display font-semibold text-lg text-primary mb-1">
-                      Proven Track Record
+                    <h3 className="text-lg text-primary mb-1">
+                      {t("home.intro.title3")}
                     </h3>
                     <p className="text-sm md:text-base text-primary/70">
-                      Hundreds of successful cases, from residence permits to Spanish nationality, with a focus on achieving the best outcomes for our clients.
+                      {t("home.intro.desc3")}
                     </p>
                   </div>
                 </MotionDiv>
@@ -230,7 +230,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
                         {i + 1}
                       </span>
                     </div>
-                    <h3 className="font-display font-semibold text-lg md:text-xl leading-tight text-primary">
+                    <h3 className="text-lg md:text-lg leading-tight text-primary">
                       {t(`home.services.${service}.title`)}
                     </h3>
                     <p className="text-sm md:text-base text-primary/70 leading-relaxed">

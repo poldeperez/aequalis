@@ -33,6 +33,14 @@
         "title": "Autorizacions de residència i treball",
         "desc": "Assessorem i gestionem la tramitació d'autoritzacions que permeten residir i treballar legalment a Espanya, tant per compte aliè com propi."
       }
+    },
+    "intro": {
+      "title1": "Compromís i professionalitat",
+      "desc1": "Ens especialitzem en dret d'estrangeria i nacionalitat espanyola, oferint un assessorament clar, actualitzat i adaptat a cada situació.",
+      "title2": "Atenció personalitzada",
+      "desc2": "Cada persona té una història distinta. T'acompanyem de manera propera i transparent en cada pas del procés.",
+      "title3": "Casos resolts amb èxit",
+      "desc3": "Hem ajudat a moltes persones i famílies a obtenir els seus permisos de residència i nacionalitat, assolint els seus objectius a Espanya."
     }
   },
   "services": {
@@ -86,7 +94,7 @@
     "mission": {
       "title": "La nostra missió",
       "paragraph1": "Acompanyo els meus clients en diversos processos com <b>visats, autoritzacions de residència, nacionalitat espanyola, arraigos i reagrupacions familiars</b>, entre d'altres. El meu compromís és oferir un assessorament clar, transparent i adaptat a cada situació personal.",
-      "paragraph2": "A <b>Aequalis Advocades</b> treballem des de la <b>cercania, l'escolta i el respecte</b>. Sabem que migrar implica esforços, somnis i valentia. Per això, la nostra missió és fer aquest camí més senzill."
+      "paragraph2": "A <b>Aequalis Advocades</b> treballem des de la <b>proximitat, l'escolta i el respecte</b>. Sabem que migrar implica esforços, somnis i valentia. Per això, la nostra missió és fer aquest camí més senzill."
     },
     "etymology": {
       "title": "Etimologia",
