@@ -7,6 +7,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
   
   const sitemap: MetadataRoute.Sitemap = []
   
+  // home URL
+  sitemap.push({
+    url: baseUrl,
+    lastModified: new Date(),
+    changeFrequency: 'weekly',
+    priority: 1,
+    alternates: {
+      languages: Object.fromEntries(
+        locales.map(l => [l, `${baseUrl}/${l}`])
+      ),
+    },
+  })
   // Add all pages for all locales
   locales.forEach(locale => {
     pages.forEach(page => {
