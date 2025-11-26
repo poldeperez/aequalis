@@ -92,7 +92,7 @@ export default async function Footer() {
         {/* Bottom Bar */}
         <div className="mt-12 pt-8 border-t border-secondary/20 flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-secondary/60">
           <p>
-            © {new Date().getFullYear()} Aequalis Advocades. {t("privacy.rights")}
+            © {new Date().getFullYear()} Aequalis Advocades. {t("privacy.rights")} Created by <a href="https://dznode.com" target="_blank" className="font-bold text-white/80 hover:text-white transition-colors"> Dz node</a>.
           </p>
           <div className="flex items-center gap-6">
             <Link 
